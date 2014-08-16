@@ -302,7 +302,7 @@
         "keyName": "emoji",
         "path": "/Emoji/",
         "smilies": [
-            {"name": "angry", "img": "/emoji/angry.png"},
+            {"name": "angry", "img": "angry.png"},
             {"name": "anguished", "img": "anguished.png"},
             {"name": "astonished", "img": "astonished.png"},
             {"name": "blush", "img": "blush.png"},
