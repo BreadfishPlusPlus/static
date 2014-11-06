@@ -1,0 +1,1 @@
+Hier liegen alle zusätzlichen Daten (Icons, Smilies, sonstige Bilder) die für [Breadfish++](https://github.com/BreadfishPlusPlus/BreadfishPlusPlus) benötigt werden, sowie das Hauptscript. Erreichbar über [cdn.brpp.ga](https://cdn.brpp.ga).
