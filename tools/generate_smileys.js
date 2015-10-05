@@ -8,8 +8,10 @@ let SMILEY_LIST = [];
 let count_categories = 0;
 let count_smileys = 0;
 
-Fs.readdirSync(Path.join(__dirname)).forEach(directoryName => {
-    const DIR_PATH = Path.join(__dirname, directoryName);
+const SMILEY_DIR = Path.join(__dirname, "..", "smileys");
+
+Fs.readdirSync(SMILEY_DIR).forEach(directoryName => {
+    const DIR_PATH = Path.join(SMILEY_DIR, directoryName);
     if (Fs.lstatSync(DIR_PATH).isDirectory()) {
 
         count_categories++;
@@ -22,7 +24,7 @@ Fs.readdirSync(Path.join(__dirname)).forEach(directoryName => {
 
         Fs.readdirSync(DIR_PATH).forEach(fileName => {
             if (fileName === "notice.txt") {
-                category.notice = Fs.readFileSync(Path.join(__dirname, directoryName, fileName), {encoding: "utf8"}).trim();
+                category.notice = Fs.readFileSync(Path.join(SMILEY_DIR, directoryName, fileName), {encoding: "utf8"}).trim();
                 return;
             }
             count_smileys++;
@@ -37,7 +39,7 @@ Fs.readdirSync(Path.join(__dirname)).forEach(directoryName => {
     }
 });
 
-Fs.writeFile(Path.join(__dirname, "smileys.json"), JSON.stringify(SMILEY_LIST, null, 4), error => {
+Fs.writeFile(Path.join(SMILEY_DIR, "smileys.json"), JSON.stringify(SMILEY_LIST, null, 4), error => {
     if (error) {
         throw error;
     }
