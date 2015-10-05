@@ -1,0 +1,5509 @@
+[
+    {
+        "name": "Ragefaces",
+        "notice": null,
+        "smileys": [
+            {
+                "file": "01.png",
+                "path": "smileys/Ragefaces/01.png",
+                "name": "01"
+            },
+            {
+                "file": "02.png",
+                "path": "smileys/Ragefaces/02.png",
+                "name": "02"
+            },
+            {
+                "file": "03.png",
+                "path": "smileys/Ragefaces/03.png",
+                "name": "03"
+            },
+            {
+                "file": "04.png",
+                "path": "smileys/Ragefaces/04.png",
+                "name": "04"
+            },
+            {
+                "file": "05.png",
+                "path": "smileys/Ragefaces/05.png",
+                "name": "05"
+            },
+            {
+                "file": "06.png",
+                "path": "smileys/Ragefaces/06.png",
+                "name": "06"
+            },
+            {
+                "file": "07.png",
+                "path": "smileys/Ragefaces/07.png",
+                "name": "07"
+            },
+            {
+                "file": "08.png",
+                "path": "smileys/Ragefaces/08.png",
+                "name": "08"
+            },
+            {
+                "file": "09.png",
+                "path": "smileys/Ragefaces/09.png",
+                "name": "09"
+            },
+            {
+                "file": "10.png",
+                "path": "smileys/Ragefaces/10.png",
+                "name": "10"
+            },
+            {
+                "file": "11.png",
+                "path": "smileys/Ragefaces/11.png",
+                "name": "11"
+            },
+            {
+                "file": "12.png",
+                "path": "smileys/Ragefaces/12.png",
+                "name": "12"
+            },
+            {
+                "file": "13.png",
+                "path": "smileys/Ragefaces/13.png",
+                "name": "13"
+            },
+            {
+                "file": "14.png",
+                "path": "smileys/Ragefaces/14.png",
+                "name": "14"
+            },
+            {
+                "file": "15.png",
+                "path": "smileys/Ragefaces/15.png",
+                "name": "15"
+            },
+            {
+                "file": "16.png",
+                "path": "smileys/Ragefaces/16.png",
+                "name": "16"
+            },
+            {
+                "file": "17.png",
+                "path": "smileys/Ragefaces/17.png",
+                "name": "17"
+            },
+            {
+                "file": "18.png",
+                "path": "smileys/Ragefaces/18.png",
+                "name": "18"
+            },
+            {
+                "file": "19.png",
+                "path": "smileys/Ragefaces/19.png",
+                "name": "19"
+            },
+            {
+                "file": "20.png",
+                "path": "smileys/Ragefaces/20.png",
+                "name": "20"
+            },
+            {
+                "file": "21.png",
+                "path": "smileys/Ragefaces/21.png",
+                "name": "21"
+            },
+            {
+                "file": "22.png",
+                "path": "smileys/Ragefaces/22.png",
+                "name": "22"
+            },
+            {
+                "file": "23.png",
+                "path": "smileys/Ragefaces/23.png",
+                "name": "23"
+            },
+            {
+                "file": "24.png",
+                "path": "smileys/Ragefaces/24.png",
+                "name": "24"
+            },
+            {
+                "file": "27.png",
+                "path": "smileys/Ragefaces/27.png",
+                "name": "27"
+            },
+            {
+                "file": "28.png",
+                "path": "smileys/Ragefaces/28.png",
+                "name": "28"
+            },
+            {
+                "file": "30.png",
+                "path": "smileys/Ragefaces/30.png",
+                "name": "30"
+            },
+            {
+                "file": "31.png",
+                "path": "smileys/Ragefaces/31.png",
+                "name": "31"
+            },
+            {
+                "file": "32.png",
+                "path": "smileys/Ragefaces/32.png",
+                "name": "32"
+            },
+            {
+                "file": "33.png",
+                "path": "smileys/Ragefaces/33.png",
+                "name": "33"
+            },
+            {
+                "file": "34.png",
+                "path": "smileys/Ragefaces/34.png",
+                "name": "34"
+            },
+            {
+                "file": "36.png",
+                "path": "smileys/Ragefaces/36.png",
+                "name": "36"
+            },
+            {
+                "file": "37.png",
+                "path": "smileys/Ragefaces/37.png",
+                "name": "37"
+            },
+            {
+                "file": "38.png",
+                "path": "smileys/Ragefaces/38.png",
+                "name": "38"
+            },
+            {
+                "file": "39.png",
+                "path": "smileys/Ragefaces/39.png",
+                "name": "39"
+            },
+            {
+                "file": "40.png",
+                "path": "smileys/Ragefaces/40.png",
+                "name": "40"
+            },
+            {
+                "file": "41.png",
+                "path": "smileys/Ragefaces/41.png",
+                "name": "41"
+            },
+            {
+                "file": "42.png",
+                "path": "smileys/Ragefaces/42.png",
+                "name": "42"
+            },
+            {
+                "file": "43.png",
+                "path": "smileys/Ragefaces/43.png",
+                "name": "43"
+            },
+            {
+                "file": "44.png",
+                "path": "smileys/Ragefaces/44.png",
+                "name": "44"
+            },
+            {
+                "file": "AllTheThings_back.png",
+                "path": "smileys/Ragefaces/AllTheThings_back.png",
+                "name": "AllTheThings_back"
+            },
+            {
+                "file": "AllTheThings_blank.png",
+                "path": "smileys/Ragefaces/AllTheThings_blank.png",
+                "name": "AllTheThings_blank"
+            },
+            {
+                "file": "AllTheThings_sad.png",
+                "path": "smileys/Ragefaces/AllTheThings_sad.png",
+                "name": "AllTheThings_sad"
+            },
+            {
+                "file": "AreYouKiddingMe.png",
+                "path": "smileys/Ragefaces/AreYouKiddingMe.png",
+                "name": "AreYouKiddingMe"
+            },
+            {
+                "file": "AreYouKiddingMeNoText.png",
+                "path": "smileys/Ragefaces/AreYouKiddingMeNoText.png",
+                "name": "AreYouKiddingMeNoText"
+            },
+            {
+                "file": "AwwYeahFemale.png",
+                "path": "smileys/Ragefaces/AwwYeahFemale.png",
+                "name": "AwwYeahFemale"
+            },
+            {
+                "file": "BadPokerFace.png",
+                "path": "smileys/Ragefaces/BadPokerFace.png",
+                "name": "BadPokerFace"
+            },
+            {
+                "file": "BeerGuy.png",
+                "path": "smileys/Ragefaces/BeerGuy.png",
+                "name": "BeerGuy"
+            },
+            {
+                "file": "BlackGuy.png",
+                "path": "smileys/Ragefaces/BlackGuy.png",
+                "name": "BlackGuy"
+            },
+            {
+                "file": "BlackGuyBeaten.png",
+                "path": "smileys/Ragefaces/BlackGuyBeaten.png",
+                "name": "BlackGuyBeaten"
+            },
+            {
+                "file": "BlackRage.png",
+                "path": "smileys/Ragefaces/BlackRage.png",
+                "name": "BlackRage"
+            },
+            {
+                "file": "CerealGuy.png",
+                "path": "smileys/Ragefaces/CerealGuy.png",
+                "name": "CerealGuy"
+            },
+            {
+                "file": "CerealGuyAngry.png",
+                "path": "smileys/Ragefaces/CerealGuyAngry.png",
+                "name": "CerealGuyAngry"
+            },
+            {
+                "file": "CerealGuySip.png",
+                "path": "smileys/Ragefaces/CerealGuySip.png",
+                "name": "CerealGuySip"
+            },
+            {
+                "file": "CerealGuySquint.png",
+                "path": "smileys/Ragefaces/CerealGuySquint.png",
+                "name": "CerealGuySquint"
+            },
+            {
+                "file": "CerealGuySquint2.png",
+                "path": "smileys/Ragefaces/CerealGuySquint2.png",
+                "name": "CerealGuySquint2"
+            },
+            {
+                "file": "CerealSpitting.png",
+                "path": "smileys/Ragefaces/CerealSpitting.png",
+                "name": "CerealSpitting"
+            },
+            {
+                "file": "ChallengeAccepted.png",
+                "path": "smileys/Ragefaces/ChallengeAccepted.png",
+                "name": "ChallengeAccepted"
+            },
+            {
+                "file": "ChallengeConsidered.png",
+                "path": "smileys/Ragefaces/ChallengeConsidered.png",
+                "name": "ChallengeConsidered"
+            },
+            {
+                "file": "CloseEnough.png",
+                "path": "smileys/Ragefaces/CloseEnough.png",
+                "name": "CloseEnough"
+            },
+            {
+                "file": "ConflictingEmotions.png",
+                "path": "smileys/Ragefaces/ConflictingEmotions.png",
+                "name": "ConflictingEmotions"
+            },
+            {
+                "file": "EWBTE2.png",
+                "path": "smileys/Ragefaces/EWBTE2.png",
+                "name": "EWBTE2"
+            },
+            {
+                "file": "EpicBeardGuy.png",
+                "path": "smileys/Ragefaces/EpicBeardGuy.png",
+                "name": "EpicBeardGuy"
+            },
+            {
+                "file": "EpicFailGuy.png",
+                "path": "smileys/Ragefaces/EpicFailGuy.png",
+                "name": "EpicFailGuy"
+            },
+            {
+                "file": "FapFap.png",
+                "path": "smileys/Ragefaces/FapFap.png",
+                "name": "FapFap"
+            },
+            {
+                "file": "ForeverAloneExcited.png",
+                "path": "smileys/Ragefaces/ForeverAloneExcited.png",
+                "name": "ForeverAloneExcited"
+            },
+            {
+                "file": "French.png",
+                "path": "smileys/Ragefaces/French.png",
+                "name": "French"
+            },
+            {
+                "file": "Gasp.png",
+                "path": "smileys/Ragefaces/Gasp.png",
+                "name": "Gasp"
+            },
+            {
+                "file": "GaspHand.png",
+                "path": "smileys/Ragefaces/GaspHand.png",
+                "name": "GaspHand"
+            },
+            {
+                "file": "Grandma Shit.png",
+                "path": "smileys/Ragefaces/Grandma Shit.png",
+                "name": "Grandma Shit"
+            },
+            {
+                "file": "Grandma.png",
+                "path": "smileys/Ragefaces/Grandma.png",
+                "name": "Grandma"
+            },
+            {
+                "file": "GrannyTroll.png",
+                "path": "smileys/Ragefaces/GrannyTroll.png",
+                "name": "GrannyTroll"
+            },
+            {
+                "file": "HerpDerp.png",
+                "path": "smileys/Ragefaces/HerpDerp.png",
+                "name": "HerpDerp"
+            },
+            {
+                "file": "High.png",
+                "path": "smileys/Ragefaces/High.png",
+                "name": "High"
+            },
+            {
+                "file": "Hitler.png",
+                "path": "smileys/Ragefaces/Hitler.png",
+                "name": "Hitler"
+            },
+            {
+                "file": "I lied.png",
+                "path": "smileys/Ragefaces/I lied.png",
+                "name": "I lied"
+            },
+            {
+                "file": "I lied_black.jpg",
+                "path": "smileys/Ragefaces/I lied_black.jpg",
+                "name": "I lied_black"
+            },
+            {
+                "file": "LOL.png",
+                "path": "smileys/Ragefaces/LOL.png",
+                "name": "LOL"
+            },
+            {
+                "file": "Milk.png",
+                "path": "smileys/Ragefaces/Milk.png",
+                "name": "Milk"
+            },
+            {
+                "file": "MotherofGod.png",
+                "path": "smileys/Ragefaces/MotherofGod.png",
+                "name": "MotherofGod"
+            },
+            {
+                "file": "NewspaperGuy.png",
+                "path": "smileys/Ragefaces/NewspaperGuy.png",
+                "name": "NewspaperGuy"
+            },
+            {
+                "file": "NewspaperGuyTear.png",
+                "path": "smileys/Ragefaces/NewspaperGuyTear.png",
+                "name": "NewspaperGuyTear"
+            },
+            {
+                "file": "No.png",
+                "path": "smileys/Ragefaces/No.png",
+                "name": "No"
+            },
+            {
+                "file": "Numb.png",
+                "path": "smileys/Ragefaces/Numb.png",
+                "name": "Numb"
+            },
+            {
+                "file": "OhGodWhy.png",
+                "path": "smileys/Ragefaces/OhGodWhy.png",
+                "name": "OhGodWhy"
+            },
+            {
+                "file": "OriginalRage.png",
+                "path": "smileys/Ragefaces/OriginalRage.png",
+                "name": "OriginalRage"
+            },
+            {
+                "file": "Pig.png",
+                "path": "smileys/Ragefaces/Pig.png",
+                "name": "Pig"
+            },
+            {
+                "file": "RageLion.png",
+                "path": "smileys/Ragefaces/RageLion.png",
+                "name": "RageLion"
+            },
+            {
+                "file": "RetardDog.png",
+                "path": "smileys/Ragefaces/RetardDog.png",
+                "name": "RetardDog"
+            },
+            {
+                "file": "Rich Fu.png",
+                "path": "smileys/Ragefaces/Rich Fu.png",
+                "name": "Rich Fu"
+            },
+            {
+                "file": "Shaking.png",
+                "path": "smileys/Ragefaces/Shaking.png",
+                "name": "Shaking"
+            },
+            {
+                "file": "SideMouth.png",
+                "path": "smileys/Ragefaces/SideMouth.png",
+                "name": "SideMouth"
+            },
+            {
+                "file": "Smile2.png",
+                "path": "smileys/Ragefaces/Smile2.png",
+                "name": "Smile2"
+            },
+            {
+                "file": "SonMeGusta.png",
+                "path": "smileys/Ragefaces/SonMeGusta.png",
+                "name": "SonMeGusta"
+            },
+            {
+                "file": "ThingsWentOkay.png",
+                "path": "smileys/Ragefaces/ThingsWentOkay.png",
+                "name": "ThingsWentOkay"
+            },
+            {
+                "file": "ThrowUpInMouth.png",
+                "path": "smileys/Ragefaces/ThrowUpInMouth.png",
+                "name": "ThrowUpInMouth"
+            },
+            {
+                "file": "Troll.png",
+                "path": "smileys/Ragefaces/Troll.png",
+                "name": "Troll"
+            },
+            {
+                "file": "TrollDad.png",
+                "path": "smileys/Ragefaces/TrollDad.png",
+                "name": "TrollDad"
+            },
+            {
+                "file": "TrollDadFull.png",
+                "path": "smileys/Ragefaces/TrollDadFull.png",
+                "name": "TrollDadFull"
+            },
+            {
+                "file": "TrueStory.png",
+                "path": "smileys/Ragefaces/TrueStory.png",
+                "name": "TrueStory"
+            },
+            {
+                "file": "awww yeah.jpg",
+                "path": "smileys/Ragefaces/awww yeah.jpg",
+                "name": "awww yeah"
+            },
+            {
+                "file": "badass over here.png",
+                "path": "smileys/Ragefaces/badass over here.png",
+                "name": "badass over here"
+            },
+            {
+                "file": "basically retarded.png",
+                "path": "smileys/Ragefaces/basically retarded.png",
+                "name": "basically retarded"
+            },
+            {
+                "file": "black_rage.png",
+                "path": "smileys/Ragefaces/black_rage.png",
+                "name": "black_rage"
+            },
+            {
+                "file": "blissful not giving a fuck.png",
+                "path": "smileys/Ragefaces/blissful not giving a fuck.png",
+                "name": "blissful not giving a fuck"
+            },
+            {
+                "file": "canadian.png",
+                "path": "smileys/Ragefaces/canadian.png",
+                "name": "canadian"
+            },
+            {
+                "file": "cereal guy.png",
+                "path": "smileys/Ragefaces/cereal guy.png",
+                "name": "cereal guy"
+            },
+            {
+                "file": "clever girl.jpg",
+                "path": "smileys/Ragefaces/clever girl.jpg",
+                "name": "clever girl"
+            },
+            {
+                "file": "concentrate inverted tongue side.png",
+                "path": "smileys/Ragefaces/concentrate inverted tongue side.png",
+                "name": "concentrate inverted tongue side"
+            },
+            {
+                "file": "concentrate tongue.png",
+                "path": "smileys/Ragefaces/concentrate tongue.png",
+                "name": "concentrate tongue"
+            },
+            {
+                "file": "conflicting emotions no words inverted.png",
+                "path": "smileys/Ragefaces/conflicting emotions no words inverted.png",
+                "name": "conflicting emotions no words inverted"
+            },
+            {
+                "file": "crazy concentrate sweat.png",
+                "path": "smileys/Ragefaces/crazy concentrate sweat.png",
+                "name": "crazy concentrate sweat"
+            },
+            {
+                "file": "dazed and confused 2.png",
+                "path": "smileys/Ragefaces/dazed and confused 2.png",
+                "name": "dazed and confused 2"
+            },
+            {
+                "file": "desk flip.png",
+                "path": "smileys/Ragefaces/desk flip.png",
+                "name": "desk flip"
+            },
+            {
+                "file": "deviltroll.png",
+                "path": "smileys/Ragefaces/deviltroll.png",
+                "name": "deviltroll"
+            },
+            {
+                "file": "dogsweetjesus.png",
+                "path": "smileys/Ragefaces/dogsweetjesus.png",
+                "name": "dogsweetjesus"
+            },
+            {
+                "file": "dolan1.png",
+                "path": "smileys/Ragefaces/dolan1.png",
+                "name": "dolan1"
+            },
+            {
+                "file": "dolan2.png",
+                "path": "smileys/Ragefaces/dolan2.png",
+                "name": "dolan2"
+            },
+            {
+                "file": "drunk.png",
+                "path": "smileys/Ragefaces/drunk.png",
+                "name": "drunk"
+            },
+            {
+                "file": "dude come on smile.png",
+                "path": "smileys/Ragefaces/dude come on smile.png",
+                "name": "dude come on smile"
+            },
+            {
+                "file": "dumbfounded kid.png",
+                "path": "smileys/Ragefaces/dumbfounded kid.png",
+                "name": "dumbfounded kid"
+            },
+            {
+                "file": "dumbfounded woah.png",
+                "path": "smileys/Ragefaces/dumbfounded woah.png",
+                "name": "dumbfounded woah"
+            },
+            {
+                "file": "everything went better than expected no words.png",
+                "path": "smileys/Ragefaces/everything went better than expected no words.png",
+                "name": "everything went better than expected no words"
+            },
+            {
+                "file": "evil smile.png",
+                "path": "smileys/Ragefaces/evil smile.png",
+                "name": "evil smile"
+            },
+            {
+                "file": "eye twitch.png",
+                "path": "smileys/Ragefaces/eye twitch.png",
+                "name": "eye twitch"
+            },
+            {
+                "file": "falltheu.png",
+                "path": "smileys/Ragefaces/falltheu.png",
+                "name": "falltheu"
+            },
+            {
+                "file": "fap.png",
+                "path": "smileys/Ragefaces/fap.png",
+                "name": "fap"
+            },
+            {
+                "file": "femaleFuckThatShit.png",
+                "path": "smileys/Ragefaces/femaleFuckThatShit.png",
+                "name": "femaleFuckThatShit"
+            },
+            {
+                "file": "forever alone with words.png",
+                "path": "smileys/Ragefaces/forever alone with words.png",
+                "name": "forever alone with words"
+            },
+            {
+                "file": "forever alone without words.png",
+                "path": "smileys/Ragefaces/forever alone without words.png",
+                "name": "forever alone without words"
+            },
+            {
+                "file": "forever not giving a fuck.png",
+                "path": "smileys/Ragefaces/forever not giving a fuck.png",
+                "name": "forever not giving a fuck"
+            },
+            {
+                "file": "foreveragamer.png",
+                "path": "smileys/Ragefaces/foreveragamer.png",
+                "name": "foreveragamer"
+            },
+            {
+                "file": "freddie.png",
+                "path": "smileys/Ragefaces/freddie.png",
+                "name": "freddie"
+            },
+            {
+                "file": "freddiesoclose.png",
+                "path": "smileys/Ragefaces/freddiesoclose.png",
+                "name": "freddiesoclose"
+            },
+            {
+                "file": "fuck yeah no words inverted smiling.png",
+                "path": "smileys/Ragefaces/fuck yeah no words inverted smiling.png",
+                "name": "fuck yeah no words inverted smiling"
+            },
+            {
+                "file": "fuck yeah words.png",
+                "path": "smileys/Ragefaces/fuck yeah words.png",
+                "name": "fuck yeah words"
+            },
+            {
+                "file": "fumanchu.jpg",
+                "path": "smileys/Ragefaces/fumanchu.jpg",
+                "name": "fumanchu"
+            },
+            {
+                "file": "gaspcat with glasses.png",
+                "path": "smileys/Ragefaces/gaspcat with glasses.png",
+                "name": "gaspcat with glasses"
+            },
+            {
+                "file": "gaspcat.png",
+                "path": "smileys/Ragefaces/gaspcat.png",
+                "name": "gaspcat"
+            },
+            {
+                "file": "gay forever alone.png",
+                "path": "smileys/Ragefaces/gay forever alone.png",
+                "name": "gay forever alone"
+            },
+            {
+                "file": "gaytroll.png",
+                "path": "smileys/Ragefaces/gaytroll.png",
+                "name": "gaytroll"
+            },
+            {
+                "file": "grinch.png",
+                "path": "smileys/Ragefaces/grinch.png",
+                "name": "grinch"
+            },
+            {
+                "file": "gtfo no words inverted smiling.png",
+                "path": "smileys/Ragefaces/gtfo no words inverted smiling.png",
+                "name": "gtfo no words inverted smiling"
+            },
+            {
+                "file": "gtfo.png",
+                "path": "smileys/Ragefaces/gtfo.png",
+                "name": "gtfo"
+            },
+            {
+                "file": "happy crying.png",
+                "path": "smileys/Ragefaces/happy crying.png",
+                "name": "happy crying"
+            },
+            {
+                "file": "happy never alone.png",
+                "path": "smileys/Ragefaces/happy never alone.png",
+                "name": "happy never alone"
+            },
+            {
+                "file": "haters gonna hate mms.jpg",
+                "path": "smileys/Ragefaces/haters gonna hate mms.jpg",
+                "name": "haters gonna hate mms"
+            },
+            {
+                "file": "haters gonna hate whistling.png",
+                "path": "smileys/Ragefaces/haters gonna hate whistling.png",
+                "name": "haters gonna hate whistling"
+            },
+            {
+                "file": "i feels ya bra.png",
+                "path": "smileys/Ragefaces/i feels ya bra.png",
+                "name": "i feels ya bra"
+            },
+            {
+                "file": "im watching you.png",
+                "path": "smileys/Ragefaces/im watching you.png",
+                "name": "im watching you"
+            },
+            {
+                "file": "iseewhatyoudidthere.png",
+                "path": "smileys/Ragefaces/iseewhatyoudidthere.png",
+                "name": "iseewhatyoudidthere"
+            },
+            {
+                "file": "like a lady.png",
+                "path": "smileys/Ragefaces/like a lady.png",
+                "name": "like a lady"
+            },
+            {
+                "file": "like a sir wine.png",
+                "path": "smileys/Ragefaces/like a sir wine.png",
+                "name": "like a sir wine"
+            },
+            {
+                "file": "like a sir.png",
+                "path": "smileys/Ragefaces/like a sir.png",
+                "name": "like a sir"
+            },
+            {
+                "file": "me gusta mucho creepy.png",
+                "path": "smileys/Ragefaces/me gusta mucho creepy.png",
+                "name": "me gusta mucho creepy"
+            },
+            {
+                "file": "melvin fuck yeah.png",
+                "path": "smileys/Ragefaces/melvin fuck yeah.png",
+                "name": "melvin fuck yeah"
+            },
+            {
+                "file": "melvin.png",
+                "path": "smileys/Ragefaces/melvin.png",
+                "name": "melvin"
+            },
+            {
+                "file": "mom.png",
+                "path": "smileys/Ragefaces/mom.png",
+                "name": "mom"
+            },
+            {
+                "file": "no me gusta with words.png",
+                "path": "smileys/Ragefaces/no me gusta with words.png",
+                "name": "no me gusta with words"
+            },
+            {
+                "file": "not okay smile.png",
+                "path": "smileys/Ragefaces/not okay smile.png",
+                "name": "not okay smile"
+            },
+            {
+                "file": "not sure if gusta.png",
+                "path": "smileys/Ragefaces/not sure if gusta.png",
+                "name": "not sure if gusta"
+            },
+            {
+                "file": "notbadobama.png",
+                "path": "smileys/Ragefaces/notbadobama.png",
+                "name": "notbadobama"
+            },
+            {
+                "file": "nothingtodohere.png",
+                "path": "smileys/Ragefaces/nothingtodohere.png",
+                "name": "nothingtodohere"
+            },
+            {
+                "file": "now kiss.png",
+                "path": "smileys/Ragefaces/now kiss.png",
+                "name": "now kiss"
+            },
+            {
+                "file": "o face tears and sweat so sweet i love the release mmm yeah.png",
+                "path": "smileys/Ragefaces/o face tears and sweat so sweet i love the release mmm yeah.png",
+                "name": "o face tears and sweat so sweet i love the release mmm yeah"
+            },
+            {
+                "file": "oh god eesh.png",
+                "path": "smileys/Ragefaces/oh god eesh.png",
+                "name": "oh god eesh"
+            },
+            {
+                "file": "oh god.png",
+                "path": "smileys/Ragefaces/oh god.png",
+                "name": "oh god"
+            },
+            {
+                "file": "oh no.png",
+                "path": "smileys/Ragefaces/oh no.png",
+                "name": "oh no"
+            },
+            {
+                "file": "oh stop it you.png",
+                "path": "smileys/Ragefaces/oh stop it you.png",
+                "name": "oh stop it you"
+            },
+            {
+                "file": "ohhhyes.png",
+                "path": "smileys/Ragefaces/ohhhyes.png",
+                "name": "ohhhyes"
+            },
+            {
+                "file": "ohhhyesfront.png",
+                "path": "smileys/Ragefaces/ohhhyesfront.png",
+                "name": "ohhhyesfront"
+            },
+            {
+                "file": "okay i lied.png",
+                "path": "smileys/Ragefaces/okay i lied.png",
+                "name": "okay i lied"
+            },
+            {
+                "file": "okay mexican.png",
+                "path": "smileys/Ragefaces/okay mexican.png",
+                "name": "okay mexican"
+            },
+            {
+                "file": "okay no words.png",
+                "path": "smileys/Ragefaces/okay no words.png",
+                "name": "okay no words"
+            },
+            {
+                "file": "okay with words.png",
+                "path": "smileys/Ragefaces/okay with words.png",
+                "name": "okay with words"
+            },
+            {
+                "file": "omgrun.png",
+                "path": "smileys/Ragefaces/omgrun.png",
+                "name": "omgrun"
+            },
+            {
+                "file": "pffttchhchh busted.png",
+                "path": "smileys/Ragefaces/pffttchhchh busted.png",
+                "name": "pffttchhchh busted"
+            },
+            {
+                "file": "pffttchhchhh.png",
+                "path": "smileys/Ragefaces/pffttchhchhh.png",
+                "name": "pffttchhchhh"
+            },
+            {
+                "file": "playful tongue.png",
+                "path": "smileys/Ragefaces/playful tongue.png",
+                "name": "playful tongue"
+            },
+            {
+                "file": "poker face thick.png",
+                "path": "smileys/Ragefaces/poker face thick.png",
+                "name": "poker face thick"
+            },
+            {
+                "file": "poker face.png",
+                "path": "smileys/Ragefaces/poker face.png",
+                "name": "poker face"
+            },
+            {
+                "file": "problem guy okay.png",
+                "path": "smileys/Ragefaces/problem guy okay.png",
+                "name": "problem guy okay"
+            },
+            {
+                "file": "problemo 2.png",
+                "path": "smileys/Ragefaces/problemo 2.png",
+                "name": "problemo 2"
+            },
+            {
+                "file": "problemo.jpg",
+                "path": "smileys/Ragefaces/problemo.jpg",
+                "name": "problemo"
+            },
+            {
+                "file": "rage blank.png",
+                "path": "smileys/Ragefaces/rage blank.png",
+                "name": "rage blank"
+            },
+            {
+                "file": "rage cat.jpg",
+                "path": "smileys/Ragefaces/rage cat.jpg",
+                "name": "rage cat"
+            },
+            {
+                "file": "rage classic.png",
+                "path": "smileys/Ragefaces/rage classic.png",
+                "name": "rage classic"
+            },
+            {
+                "file": "rage confused.png",
+                "path": "smileys/Ragefaces/rage confused.png",
+                "name": "rage confused"
+            },
+            {
+                "file": "rage extreme.jpg",
+                "path": "smileys/Ragefaces/rage extreme.jpg",
+                "name": "rage extreme"
+            },
+            {
+                "file": "rage happy.png",
+                "path": "smileys/Ragefaces/rage happy.png",
+                "name": "rage happy"
+            },
+            {
+                "file": "rage nuclear.jpg",
+                "path": "smileys/Ragefaces/rage nuclear.jpg",
+                "name": "rage nuclear"
+            },
+            {
+                "file": "rage omega.jpg",
+                "path": "smileys/Ragefaces/rage omega.jpg",
+                "name": "rage omega"
+            },
+            {
+                "file": "rage quiet.png",
+                "path": "smileys/Ragefaces/rage quiet.png",
+                "name": "rage quiet"
+            },
+            {
+                "file": "rage rasta.png",
+                "path": "smileys/Ragefaces/rage rasta.png",
+                "name": "rage rasta"
+            },
+            {
+                "file": "rage reddit alien.png",
+                "path": "smileys/Ragefaces/rage reddit alien.png",
+                "name": "rage reddit alien"
+            },
+            {
+                "file": "rage super.png",
+                "path": "smileys/Ragefaces/rage super.png",
+                "name": "rage super"
+            },
+            {
+                "file": "rainbow puke.png",
+                "path": "smileys/Ragefaces/rainbow puke.png",
+                "name": "rainbow puke"
+            },
+            {
+                "file": "sad plain.png",
+                "path": "smileys/Ragefaces/sad plain.png",
+                "name": "sad plain"
+            },
+            {
+                "file": "sadmelvin.png",
+                "path": "smileys/Ragefaces/sadmelvin.png",
+                "name": "sadmelvin"
+            },
+            {
+                "file": "seriouslyChan.png",
+                "path": "smileys/Ragefaces/seriouslyChan.png",
+                "name": "seriouslyChan"
+            },
+            {
+                "file": "seriouslyChanFemale.png",
+                "path": "smileys/Ragefaces/seriouslyChanFemale.png",
+                "name": "seriouslyChanFemale"
+            },
+            {
+                "file": "spiderpman.png",
+                "path": "smileys/Ragefaces/spiderpman.png",
+                "name": "spiderpman"
+            },
+            {
+                "file": "stare.png",
+                "path": "smileys/Ragefaces/stare.png",
+                "name": "stare"
+            },
+            {
+                "file": "surprised open mouth.png",
+                "path": "smileys/Ragefaces/surprised open mouth.png",
+                "name": "surprised open mouth"
+            },
+            {
+                "file": "surprised wide open mouth.png",
+                "path": "smileys/Ragefaces/surprised wide open mouth.png",
+                "name": "surprised wide open mouth"
+            },
+            {
+                "file": "surprised.png",
+                "path": "smileys/Ragefaces/surprised.png",
+                "name": "surprised"
+            },
+            {
+                "file": "sweetjesusface.png",
+                "path": "smileys/Ragefaces/sweetjesusface.png",
+                "name": "sweetjesusface"
+            },
+            {
+                "file": "that feel.png",
+                "path": "smileys/Ragefaces/that feel.png",
+                "name": "that feel"
+            },
+            {
+                "file": "thefuck.png",
+                "path": "smileys/Ragefaces/thefuck.png",
+                "name": "thefuck"
+            },
+            {
+                "file": "thefuckFemale.png",
+                "path": "smileys/Ragefaces/thefuckFemale.png",
+                "name": "thefuckFemale"
+            },
+            {
+                "file": "thefuckFemaleBlonde.png",
+                "path": "smileys/Ragefaces/thefuckFemaleBlonde.png",
+                "name": "thefuckFemaleBlonde"
+            },
+            {
+                "file": "troll dad jump.png",
+                "path": "smileys/Ragefaces/troll dad jump.png",
+                "name": "troll dad jump"
+            },
+            {
+                "file": "troll dad monocle.png",
+                "path": "smileys/Ragefaces/troll dad monocle.png",
+                "name": "troll dad monocle"
+            },
+            {
+                "file": "troll hot.png",
+                "path": "smileys/Ragefaces/troll hot.png",
+                "name": "troll hot"
+            },
+            {
+                "file": "troll insane.png",
+                "path": "smileys/Ragefaces/troll insane.png",
+                "name": "troll insane"
+            },
+            {
+                "file": "troll mom jump.png",
+                "path": "smileys/Ragefaces/troll mom jump.png",
+                "name": "troll mom jump"
+            },
+            {
+                "file": "trollbaby.png",
+                "path": "smileys/Ragefaces/trollbaby.png",
+                "name": "trollbaby"
+            },
+            {
+                "file": "trollol.png",
+                "path": "smileys/Ragefaces/trollol.png",
+                "name": "trollol"
+            },
+            {
+                "file": "wait.png",
+                "path": "smileys/Ragefaces/wait.png",
+                "name": "wait"
+            },
+            {
+                "file": "what.png",
+                "path": "smileys/Ragefaces/what.png",
+                "name": "what"
+            },
+            {
+                "file": "whathaveyoudone.jpg",
+                "path": "smileys/Ragefaces/whathaveyoudone.jpg",
+                "name": "whathaveyoudone"
+            },
+            {
+                "file": "why inverted.png",
+                "path": "smileys/Ragefaces/why inverted.png",
+                "name": "why inverted"
+            },
+            {
+                "file": "yawn.png",
+                "path": "smileys/Ragefaces/yawn.png",
+                "name": "yawn"
+            },
+            {
+                "file": "you dont say.png",
+                "path": "smileys/Ragefaces/you dont say.png",
+                "name": "you dont say"
+            },
+            {
+                "file": "youthful fear.png",
+                "path": "smileys/Ragefaces/youthful fear.png",
+                "name": "youthful fear"
+            },
+            {
+                "file": "yuno-blue.png",
+                "path": "smileys/Ragefaces/yuno-blue.png",
+                "name": "yuno-blue"
+            },
+            {
+                "file": "yuno.png",
+                "path": "smileys/Ragefaces/yuno.png",
+                "name": "yuno"
+            }
+        ]
+    },
+    {
+        "name": "Twemoji",
+        "notice": "Twemoji von Twitter ist unter der Creative Commons-Lizenz Namensnennung-Weitergabe unter gleichen Bedingungen 4.0 International lizenziert.",
+        "smileys": [
+            {
+                "file": "1f004.png",
+                "path": "smileys/Twemoji/1f004.png",
+                "name": "1f004"
+            },
+            {
+                "file": "1f0cf.png",
+                "path": "smileys/Twemoji/1f0cf.png",
+                "name": "1f0cf"
+            },
+            {
+                "file": "1f170.png",
+                "path": "smileys/Twemoji/1f170.png",
+                "name": "1f170"
+            },
+            {
+                "file": "1f171.png",
+                "path": "smileys/Twemoji/1f171.png",
+                "name": "1f171"
+            },
+            {
+                "file": "1f17e.png",
+                "path": "smileys/Twemoji/1f17e.png",
+                "name": "1f17e"
+            },
+            {
+                "file": "1f17f.png",
+                "path": "smileys/Twemoji/1f17f.png",
+                "name": "1f17f"
+            },
+            {
+                "file": "1f18e.png",
+                "path": "smileys/Twemoji/1f18e.png",
+                "name": "1f18e"
+            },
+            {
+                "file": "1f191.png",
+                "path": "smileys/Twemoji/1f191.png",
+                "name": "1f191"
+            },
+            {
+                "file": "1f192.png",
+                "path": "smileys/Twemoji/1f192.png",
+                "name": "1f192"
+            },
+            {
+                "file": "1f193.png",
+                "path": "smileys/Twemoji/1f193.png",
+                "name": "1f193"
+            },
+            {
+                "file": "1f194.png",
+                "path": "smileys/Twemoji/1f194.png",
+                "name": "1f194"
+            },
+            {
+                "file": "1f195.png",
+                "path": "smileys/Twemoji/1f195.png",
+                "name": "1f195"
+            },
+            {
+                "file": "1f196.png",
+                "path": "smileys/Twemoji/1f196.png",
+                "name": "1f196"
+            },
+            {
+                "file": "1f197.png",
+                "path": "smileys/Twemoji/1f197.png",
+                "name": "1f197"
+            },
+            {
+                "file": "1f198.png",
+                "path": "smileys/Twemoji/1f198.png",
+                "name": "1f198"
+            },
+            {
+                "file": "1f199.png",
+                "path": "smileys/Twemoji/1f199.png",
+                "name": "1f199"
+            },
+            {
+                "file": "1f19a.png",
+                "path": "smileys/Twemoji/1f19a.png",
+                "name": "1f19a"
+            },
+            {
+                "file": "1f1e6.png",
+                "path": "smileys/Twemoji/1f1e6.png",
+                "name": "1f1e6"
+            },
+            {
+                "file": "1f1e7.png",
+                "path": "smileys/Twemoji/1f1e7.png",
+                "name": "1f1e7"
+            },
+            {
+                "file": "1f1e8-1f1f3.png",
+                "path": "smileys/Twemoji/1f1e8-1f1f3.png",
+                "name": "1f1e8-1f1f3"
+            },
+            {
+                "file": "1f1e8.png",
+                "path": "smileys/Twemoji/1f1e8.png",
+                "name": "1f1e8"
+            },
+            {
+                "file": "1f1e9-1f1ea.png",
+                "path": "smileys/Twemoji/1f1e9-1f1ea.png",
+                "name": "1f1e9-1f1ea"
+            },
+            {
+                "file": "1f1e9.png",
+                "path": "smileys/Twemoji/1f1e9.png",
+                "name": "1f1e9"
+            },
+            {
+                "file": "1f1ea-1f1f8.png",
+                "path": "smileys/Twemoji/1f1ea-1f1f8.png",
+                "name": "1f1ea-1f1f8"
+            },
+            {
+                "file": "1f1ea.png",
+                "path": "smileys/Twemoji/1f1ea.png",
+                "name": "1f1ea"
+            },
+            {
+                "file": "1f1eb-1f1f7.png",
+                "path": "smileys/Twemoji/1f1eb-1f1f7.png",
+                "name": "1f1eb-1f1f7"
+            },
+            {
+                "file": "1f1eb.png",
+                "path": "smileys/Twemoji/1f1eb.png",
+                "name": "1f1eb"
+            },
+            {
+                "file": "1f1ec-1f1e7.png",
+                "path": "smileys/Twemoji/1f1ec-1f1e7.png",
+                "name": "1f1ec-1f1e7"
+            },
+            {
+                "file": "1f1ec.png",
+                "path": "smileys/Twemoji/1f1ec.png",
+                "name": "1f1ec"
+            },
+            {
+                "file": "1f1ed.png",
+                "path": "smileys/Twemoji/1f1ed.png",
+                "name": "1f1ed"
+            },
+            {
+                "file": "1f1ee-1f1f9.png",
+                "path": "smileys/Twemoji/1f1ee-1f1f9.png",
+                "name": "1f1ee-1f1f9"
+            },
+            {
+                "file": "1f1ee.png",
+                "path": "smileys/Twemoji/1f1ee.png",
+                "name": "1f1ee"
+            },
+            {
+                "file": "1f1ef-1f1f5.png",
+                "path": "smileys/Twemoji/1f1ef-1f1f5.png",
+                "name": "1f1ef-1f1f5"
+            },
+            {
+                "file": "1f1ef.png",
+                "path": "smileys/Twemoji/1f1ef.png",
+                "name": "1f1ef"
+            },
+            {
+                "file": "1f1f0-1f1f7.png",
+                "path": "smileys/Twemoji/1f1f0-1f1f7.png",
+                "name": "1f1f0-1f1f7"
+            },
+            {
+                "file": "1f1f0.png",
+                "path": "smileys/Twemoji/1f1f0.png",
+                "name": "1f1f0"
+            },
+            {
+                "file": "1f1f1.png",
+                "path": "smileys/Twemoji/1f1f1.png",
+                "name": "1f1f1"
+            },
+            {
+                "file": "1f1f2.png",
+                "path": "smileys/Twemoji/1f1f2.png",
+                "name": "1f1f2"
+            },
+            {
+                "file": "1f1f3.png",
+                "path": "smileys/Twemoji/1f1f3.png",
+                "name": "1f1f3"
+            },
+            {
+                "file": "1f1f4.png",
+                "path": "smileys/Twemoji/1f1f4.png",
+                "name": "1f1f4"
+            },
+            {
+                "file": "1f1f5.png",
+                "path": "smileys/Twemoji/1f1f5.png",
+                "name": "1f1f5"
+            },
+            {
+                "file": "1f1f6.png",
+                "path": "smileys/Twemoji/1f1f6.png",
+                "name": "1f1f6"
+            },
+            {
+                "file": "1f1f7-1f1fa.png",
+                "path": "smileys/Twemoji/1f1f7-1f1fa.png",
+                "name": "1f1f7-1f1fa"
+            },
+            {
+                "file": "1f1f7.png",
+                "path": "smileys/Twemoji/1f1f7.png",
+                "name": "1f1f7"
+            },
+            {
+                "file": "1f1f8.png",
+                "path": "smileys/Twemoji/1f1f8.png",
+                "name": "1f1f8"
+            },
+            {
+                "file": "1f1f9.png",
+                "path": "smileys/Twemoji/1f1f9.png",
+                "name": "1f1f9"
+            },
+            {
+                "file": "1f1fa-1f1f8.png",
+                "path": "smileys/Twemoji/1f1fa-1f1f8.png",
+                "name": "1f1fa-1f1f8"
+            },
+            {
+                "file": "1f1fa.png",
+                "path": "smileys/Twemoji/1f1fa.png",
+                "name": "1f1fa"
+            },
+            {
+                "file": "1f1fb.png",
+                "path": "smileys/Twemoji/1f1fb.png",
+                "name": "1f1fb"
+            },
+            {
+                "file": "1f1fc.png",
+                "path": "smileys/Twemoji/1f1fc.png",
+                "name": "1f1fc"
+            },
+            {
+                "file": "1f1fd.png",
+                "path": "smileys/Twemoji/1f1fd.png",
+                "name": "1f1fd"
+            },
+            {
+                "file": "1f1fe.png",
+                "path": "smileys/Twemoji/1f1fe.png",
+                "name": "1f1fe"
+            },
+            {
+                "file": "1f1ff.png",
+                "path": "smileys/Twemoji/1f1ff.png",
+                "name": "1f1ff"
+            },
+            {
+                "file": "1f201.png",
+                "path": "smileys/Twemoji/1f201.png",
+                "name": "1f201"
+            },
+            {
+                "file": "1f202.png",
+                "path": "smileys/Twemoji/1f202.png",
+                "name": "1f202"
+            },
+            {
+                "file": "1f21a.png",
+                "path": "smileys/Twemoji/1f21a.png",
+                "name": "1f21a"
+            },
+            {
+                "file": "1f22f.png",
+                "path": "smileys/Twemoji/1f22f.png",
+                "name": "1f22f"
+            },
+            {
+                "file": "1f232.png",
+                "path": "smileys/Twemoji/1f232.png",
+                "name": "1f232"
+            },
+            {
+                "file": "1f233.png",
+                "path": "smileys/Twemoji/1f233.png",
+                "name": "1f233"
+            },
+            {
+                "file": "1f234.png",
+                "path": "smileys/Twemoji/1f234.png",
+                "name": "1f234"
+            },
+            {
+                "file": "1f235.png",
+                "path": "smileys/Twemoji/1f235.png",
+                "name": "1f235"
+            },
+            {
+                "file": "1f236.png",
+                "path": "smileys/Twemoji/1f236.png",
+                "name": "1f236"
+            },
+            {
+                "file": "1f237.png",
+                "path": "smileys/Twemoji/1f237.png",
+                "name": "1f237"
+            },
+            {
+                "file": "1f238.png",
+                "path": "smileys/Twemoji/1f238.png",
+                "name": "1f238"
+            },
+            {
+                "file": "1f239.png",
+                "path": "smileys/Twemoji/1f239.png",
+                "name": "1f239"
+            },
+            {
+                "file": "1f23a.png",
+                "path": "smileys/Twemoji/1f23a.png",
+                "name": "1f23a"
+            },
+            {
+                "file": "1f250.png",
+                "path": "smileys/Twemoji/1f250.png",
+                "name": "1f250"
+            },
+            {
+                "file": "1f251.png",
+                "path": "smileys/Twemoji/1f251.png",
+                "name": "1f251"
+            },
+            {
+                "file": "1f300.png",
+                "path": "smileys/Twemoji/1f300.png",
+                "name": "1f300"
+            },
+            {
+                "file": "1f301.png",
+                "path": "smileys/Twemoji/1f301.png",
+                "name": "1f301"
+            },
+            {
+                "file": "1f302.png",
+                "path": "smileys/Twemoji/1f302.png",
+                "name": "1f302"
+            },
+            {
+                "file": "1f303.png",
+                "path": "smileys/Twemoji/1f303.png",
+                "name": "1f303"
+            },
+            {
+                "file": "1f304.png",
+                "path": "smileys/Twemoji/1f304.png",
+                "name": "1f304"
+            },
+            {
+                "file": "1f305.png",
+                "path": "smileys/Twemoji/1f305.png",
+                "name": "1f305"
+            },
+            {
+                "file": "1f306.png",
+                "path": "smileys/Twemoji/1f306.png",
+                "name": "1f306"
+            },
+            {
+                "file": "1f307.png",
+                "path": "smileys/Twemoji/1f307.png",
+                "name": "1f307"
+            },
+            {
+                "file": "1f308.png",
+                "path": "smileys/Twemoji/1f308.png",
+                "name": "1f308"
+            },
+            {
+                "file": "1f309.png",
+                "path": "smileys/Twemoji/1f309.png",
+                "name": "1f309"
+            },
+            {
+                "file": "1f30a.png",
+                "path": "smileys/Twemoji/1f30a.png",
+                "name": "1f30a"
+            },
+            {
+                "file": "1f30b.png",
+                "path": "smileys/Twemoji/1f30b.png",
+                "name": "1f30b"
+            },
+            {
+                "file": "1f30c.png",
+                "path": "smileys/Twemoji/1f30c.png",
+                "name": "1f30c"
+            },
+            {
+                "file": "1f30d.png",
+                "path": "smileys/Twemoji/1f30d.png",
+                "name": "1f30d"
+            },
+            {
+                "file": "1f30e.png",
+                "path": "smileys/Twemoji/1f30e.png",
+                "name": "1f30e"
+            },
+            {
+                "file": "1f30f.png",
+                "path": "smileys/Twemoji/1f30f.png",
+                "name": "1f30f"
+            },
+            {
+                "file": "1f310.png",
+                "path": "smileys/Twemoji/1f310.png",
+                "name": "1f310"
+            },
+            {
+                "file": "1f311.png",
+                "path": "smileys/Twemoji/1f311.png",
+                "name": "1f311"
+            },
+            {
+                "file": "1f312.png",
+                "path": "smileys/Twemoji/1f312.png",
+                "name": "1f312"
+            },
+            {
+                "file": "1f313.png",
+                "path": "smileys/Twemoji/1f313.png",
+                "name": "1f313"
+            },
+            {
+                "file": "1f314.png",
+                "path": "smileys/Twemoji/1f314.png",
+                "name": "1f314"
+            },
+            {
+                "file": "1f315.png",
+                "path": "smileys/Twemoji/1f315.png",
+                "name": "1f315"
+            },
+            {
+                "file": "1f316.png",
+                "path": "smileys/Twemoji/1f316.png",
+                "name": "1f316"
+            },
+            {
+                "file": "1f317.png",
+                "path": "smileys/Twemoji/1f317.png",
+                "name": "1f317"
+            },
+            {
+                "file": "1f318.png",
+                "path": "smileys/Twemoji/1f318.png",
+                "name": "1f318"
+            },
+            {
+                "file": "1f319.png",
+                "path": "smileys/Twemoji/1f319.png",
+                "name": "1f319"
+            },
+            {
+                "file": "1f31a.png",
+                "path": "smileys/Twemoji/1f31a.png",
+                "name": "1f31a"
+            },
+            {
+                "file": "1f31b.png",
+                "path": "smileys/Twemoji/1f31b.png",
+                "name": "1f31b"
+            },
+            {
+                "file": "1f31c.png",
+                "path": "smileys/Twemoji/1f31c.png",
+                "name": "1f31c"
+            },
+            {
+                "file": "1f31d.png",
+                "path": "smileys/Twemoji/1f31d.png",
+                "name": "1f31d"
+            },
+            {
+                "file": "1f31e.png",
+                "path": "smileys/Twemoji/1f31e.png",
+                "name": "1f31e"
+            },
+            {
+                "file": "1f31f.png",
+                "path": "smileys/Twemoji/1f31f.png",
+                "name": "1f31f"
+            },
+            {
+                "file": "1f320.png",
+                "path": "smileys/Twemoji/1f320.png",
+                "name": "1f320"
+            },
+            {
+                "file": "1f330.png",
+                "path": "smileys/Twemoji/1f330.png",
+                "name": "1f330"
+            },
+            {
+                "file": "1f331.png",
+                "path": "smileys/Twemoji/1f331.png",
+                "name": "1f331"
+            },
+            {
+                "file": "1f332.png",
+                "path": "smileys/Twemoji/1f332.png",
+                "name": "1f332"
+            },
+            {
+                "file": "1f333.png",
+                "path": "smileys/Twemoji/1f333.png",
+                "name": "1f333"
+            },
+            {
+                "file": "1f334.png",
+                "path": "smileys/Twemoji/1f334.png",
+                "name": "1f334"
+            },
+            {
+                "file": "1f335.png",
+                "path": "smileys/Twemoji/1f335.png",
+                "name": "1f335"
+            },
+            {
+                "file": "1f337.png",
+                "path": "smileys/Twemoji/1f337.png",
+                "name": "1f337"
+            },
+            {
+                "file": "1f338.png",
+                "path": "smileys/Twemoji/1f338.png",
+                "name": "1f338"
+            },
+            {
+                "file": "1f339.png",
+                "path": "smileys/Twemoji/1f339.png",
+                "name": "1f339"
+            },
+            {
+                "file": "1f33a.png",
+                "path": "smileys/Twemoji/1f33a.png",
+                "name": "1f33a"
+            },
+            {
+                "file": "1f33b.png",
+                "path": "smileys/Twemoji/1f33b.png",
+                "name": "1f33b"
+            },
+            {
+                "file": "1f33c.png",
+                "path": "smileys/Twemoji/1f33c.png",
+                "name": "1f33c"
+            },
+            {
+                "file": "1f33d.png",
+                "path": "smileys/Twemoji/1f33d.png",
+                "name": "1f33d"
+            },
+            {
+                "file": "1f33e.png",
+                "path": "smileys/Twemoji/1f33e.png",
+                "name": "1f33e"
+            },
+            {
+                "file": "1f33f.png",
+                "path": "smileys/Twemoji/1f33f.png",
+                "name": "1f33f"
+            },
+            {
+                "file": "1f340.png",
+                "path": "smileys/Twemoji/1f340.png",
+                "name": "1f340"
+            },
+            {
+                "file": "1f341.png",
+                "path": "smileys/Twemoji/1f341.png",
+                "name": "1f341"
+            },
+            {
+                "file": "1f342.png",
+                "path": "smileys/Twemoji/1f342.png",
+                "name": "1f342"
+            },
+            {
+                "file": "1f343.png",
+                "path": "smileys/Twemoji/1f343.png",
+                "name": "1f343"
+            },
+            {
+                "file": "1f344.png",
+                "path": "smileys/Twemoji/1f344.png",
+                "name": "1f344"
+            },
+            {
+                "file": "1f345.png",
+                "path": "smileys/Twemoji/1f345.png",
+                "name": "1f345"
+            },
+            {
+                "file": "1f346.png",
+                "path": "smileys/Twemoji/1f346.png",
+                "name": "1f346"
+            },
+            {
+                "file": "1f347.png",
+                "path": "smileys/Twemoji/1f347.png",
+                "name": "1f347"
+            },
+            {
+                "file": "1f348.png",
+                "path": "smileys/Twemoji/1f348.png",
+                "name": "1f348"
+            },
+            {
+                "file": "1f349.png",
+                "path": "smileys/Twemoji/1f349.png",
+                "name": "1f349"
+            },
+            {
+                "file": "1f34a.png",
+                "path": "smileys/Twemoji/1f34a.png",
+                "name": "1f34a"
+            },
+            {
+                "file": "1f34b.png",
+                "path": "smileys/Twemoji/1f34b.png",
+                "name": "1f34b"
+            },
+            {
+                "file": "1f34c.png",
+                "path": "smileys/Twemoji/1f34c.png",
+                "name": "1f34c"
+            },
+            {
+                "file": "1f34d.png",
+                "path": "smileys/Twemoji/1f34d.png",
+                "name": "1f34d"
+            },
+            {
+                "file": "1f34e.png",
+                "path": "smileys/Twemoji/1f34e.png",
+                "name": "1f34e"
+            },
+            {
+                "file": "1f34f.png",
+                "path": "smileys/Twemoji/1f34f.png",
+                "name": "1f34f"
+            },
+            {
+                "file": "1f350.png",
+                "path": "smileys/Twemoji/1f350.png",
+                "name": "1f350"
+            },
+            {
+                "file": "1f351.png",
+                "path": "smileys/Twemoji/1f351.png",
+                "name": "1f351"
+            },
+            {
+                "file": "1f352.png",
+                "path": "smileys/Twemoji/1f352.png",
+                "name": "1f352"
+            },
+            {
+                "file": "1f353.png",
+                "path": "smileys/Twemoji/1f353.png",
+                "name": "1f353"
+            },
+            {
+                "file": "1f354.png",
+                "path": "smileys/Twemoji/1f354.png",
+                "name": "1f354"
+            },
+            {
+                "file": "1f355.png",
+                "path": "smileys/Twemoji/1f355.png",
+                "name": "1f355"
+            },
+            {
+                "file": "1f356.png",
+                "path": "smileys/Twemoji/1f356.png",
+                "name": "1f356"
+            },
+            {
+                "file": "1f357.png",
+                "path": "smileys/Twemoji/1f357.png",
+                "name": "1f357"
+            },
+            {
+                "file": "1f358.png",
+                "path": "smileys/Twemoji/1f358.png",
+                "name": "1f358"
+            },
+            {
+                "file": "1f359.png",
+                "path": "smileys/Twemoji/1f359.png",
+                "name": "1f359"
+            },
+            {
+                "file": "1f35a.png",
+                "path": "smileys/Twemoji/1f35a.png",
+                "name": "1f35a"
+            },
+            {
+                "file": "1f35b.png",
+                "path": "smileys/Twemoji/1f35b.png",
+                "name": "1f35b"
+            },
+            {
+                "file": "1f35c.png",
+                "path": "smileys/Twemoji/1f35c.png",
+                "name": "1f35c"
+            },
+            {
+                "file": "1f35d.png",
+                "path": "smileys/Twemoji/1f35d.png",
+                "name": "1f35d"
+            },
+            {
+                "file": "1f35e.png",
+                "path": "smileys/Twemoji/1f35e.png",
+                "name": "1f35e"
+            },
+            {
+                "file": "1f35f.png",
+                "path": "smileys/Twemoji/1f35f.png",
+                "name": "1f35f"
+            },
+            {
+                "file": "1f360.png",
+                "path": "smileys/Twemoji/1f360.png",
+                "name": "1f360"
+            },
+            {
+                "file": "1f361.png",
+                "path": "smileys/Twemoji/1f361.png",
+                "name": "1f361"
+            },
+            {
+                "file": "1f362.png",
+                "path": "smileys/Twemoji/1f362.png",
+                "name": "1f362"
+            },
+            {
+                "file": "1f363.png",
+                "path": "smileys/Twemoji/1f363.png",
+                "name": "1f363"
+            },
+            {
+                "file": "1f364.png",
+                "path": "smileys/Twemoji/1f364.png",
+                "name": "1f364"
+            },
+            {
+                "file": "1f365.png",
+                "path": "smileys/Twemoji/1f365.png",
+                "name": "1f365"
+            },
+            {
+                "file": "1f366.png",
+                "path": "smileys/Twemoji/1f366.png",
+                "name": "1f366"
+            },
+            {
+                "file": "1f367.png",
+                "path": "smileys/Twemoji/1f367.png",
+                "name": "1f367"
+            },
+            {
+                "file": "1f368.png",
+                "path": "smileys/Twemoji/1f368.png",
+                "name": "1f368"
+            },
+            {
+                "file": "1f369.png",
+                "path": "smileys/Twemoji/1f369.png",
+                "name": "1f369"
+            },
+            {
+                "file": "1f36a.png",
+                "path": "smileys/Twemoji/1f36a.png",
+                "name": "1f36a"
+            },
+            {
+                "file": "1f36b.png",
+                "path": "smileys/Twemoji/1f36b.png",
+                "name": "1f36b"
+            },
+            {
+                "file": "1f36c.png",
+                "path": "smileys/Twemoji/1f36c.png",
+                "name": "1f36c"
+            },
+            {
+                "file": "1f36d.png",
+                "path": "smileys/Twemoji/1f36d.png",
+                "name": "1f36d"
+            },
+            {
+                "file": "1f36e.png",
+                "path": "smileys/Twemoji/1f36e.png",
+                "name": "1f36e"
+            },
+            {
+                "file": "1f36f.png",
+                "path": "smileys/Twemoji/1f36f.png",
+                "name": "1f36f"
+            },
+            {
+                "file": "1f370.png",
+                "path": "smileys/Twemoji/1f370.png",
+                "name": "1f370"
+            },
+            {
+                "file": "1f371.png",
+                "path": "smileys/Twemoji/1f371.png",
+                "name": "1f371"
+            },
+            {
+                "file": "1f372.png",
+                "path": "smileys/Twemoji/1f372.png",
+                "name": "1f372"
+            },
+            {
+                "file": "1f373.png",
+                "path": "smileys/Twemoji/1f373.png",
+                "name": "1f373"
+            },
+            {
+                "file": "1f374.png",
+                "path": "smileys/Twemoji/1f374.png",
+                "name": "1f374"
+            },
+            {
+                "file": "1f375.png",
+                "path": "smileys/Twemoji/1f375.png",
+                "name": "1f375"
+            },
+            {
+                "file": "1f376.png",
+                "path": "smileys/Twemoji/1f376.png",
+                "name": "1f376"
+            },
+            {
+                "file": "1f377.png",
+                "path": "smileys/Twemoji/1f377.png",
+                "name": "1f377"
+            },
+            {
+                "file": "1f378.png",
+                "path": "smileys/Twemoji/1f378.png",
+                "name": "1f378"
+            },
+            {
+                "file": "1f379.png",
+                "path": "smileys/Twemoji/1f379.png",
+                "name": "1f379"
+            },
+            {
+                "file": "1f37a.png",
+                "path": "smileys/Twemoji/1f37a.png",
+                "name": "1f37a"
+            },
+            {
+                "file": "1f37b.png",
+                "path": "smileys/Twemoji/1f37b.png",
+                "name": "1f37b"
+            },
+            {
+                "file": "1f37c.png",
+                "path": "smileys/Twemoji/1f37c.png",
+                "name": "1f37c"
+            },
+            {
+                "file": "1f380.png",
+                "path": "smileys/Twemoji/1f380.png",
+                "name": "1f380"
+            },
+            {
+                "file": "1f381.png",
+                "path": "smileys/Twemoji/1f381.png",
+                "name": "1f381"
+            },
+            {
+                "file": "1f382.png",
+                "path": "smileys/Twemoji/1f382.png",
+                "name": "1f382"
+            },
+            {
+                "file": "1f383.png",
+                "path": "smileys/Twemoji/1f383.png",
+                "name": "1f383"
+            },
+            {
+                "file": "1f384.png",
+                "path": "smileys/Twemoji/1f384.png",
+                "name": "1f384"
+            },
+            {
+                "file": "1f385.png",
+                "path": "smileys/Twemoji/1f385.png",
+                "name": "1f385"
+            },
+            {
+                "file": "1f386.png",
+                "path": "smileys/Twemoji/1f386.png",
+                "name": "1f386"
+            },
+            {
+                "file": "1f387.png",
+                "path": "smileys/Twemoji/1f387.png",
+                "name": "1f387"
+            },
+            {
+                "file": "1f388.png",
+                "path": "smileys/Twemoji/1f388.png",
+                "name": "1f388"
+            },
+            {
+                "file": "1f389.png",
+                "path": "smileys/Twemoji/1f389.png",
+                "name": "1f389"
+            },
+            {
+                "file": "1f38a.png",
+                "path": "smileys/Twemoji/1f38a.png",
+                "name": "1f38a"
+            },
+            {
+                "file": "1f38b.png",
+                "path": "smileys/Twemoji/1f38b.png",
+                "name": "1f38b"
+            },
+            {
+                "file": "1f38c.png",
+                "path": "smileys/Twemoji/1f38c.png",
+                "name": "1f38c"
+            },
+            {
+                "file": "1f38d.png",
+                "path": "smileys/Twemoji/1f38d.png",
+                "name": "1f38d"
+            },
+            {
+                "file": "1f38e.png",
+                "path": "smileys/Twemoji/1f38e.png",
+                "name": "1f38e"
+            },
+            {
+                "file": "1f38f.png",
+                "path": "smileys/Twemoji/1f38f.png",
+                "name": "1f38f"
+            },
+            {
+                "file": "1f390.png",
+                "path": "smileys/Twemoji/1f390.png",
+                "name": "1f390"
+            },
+            {
+                "file": "1f391.png",
+                "path": "smileys/Twemoji/1f391.png",
+                "name": "1f391"
+            },
+            {
+                "file": "1f392.png",
+                "path": "smileys/Twemoji/1f392.png",
+                "name": "1f392"
+            },
+            {
+                "file": "1f393.png",
+                "path": "smileys/Twemoji/1f393.png",
+                "name": "1f393"
+            },
+            {
+                "file": "1f3a0.png",
+                "path": "smileys/Twemoji/1f3a0.png",
+                "name": "1f3a0"
+            },
+            {
+                "file": "1f3a1.png",
+                "path": "smileys/Twemoji/1f3a1.png",
+                "name": "1f3a1"
+            },
+            {
+                "file": "1f3a2.png",
+                "path": "smileys/Twemoji/1f3a2.png",
+                "name": "1f3a2"
+            },
+            {
+                "file": "1f3a3.png",
+                "path": "smileys/Twemoji/1f3a3.png",
+                "name": "1f3a3"
+            },
+            {
+                "file": "1f3a4.png",
+                "path": "smileys/Twemoji/1f3a4.png",
+                "name": "1f3a4"
+            },
+            {
+                "file": "1f3a5.png",
+                "path": "smileys/Twemoji/1f3a5.png",
+                "name": "1f3a5"
+            },
+            {
+                "file": "1f3a6.png",
+                "path": "smileys/Twemoji/1f3a6.png",
+                "name": "1f3a6"
+            },
+            {
+                "file": "1f3a7.png",
+                "path": "smileys/Twemoji/1f3a7.png",
+                "name": "1f3a7"
+            },
+            {
+                "file": "1f3a8.png",
+                "path": "smileys/Twemoji/1f3a8.png",
+                "name": "1f3a8"
+            },
+            {
+                "file": "1f3a9.png",
+                "path": "smileys/Twemoji/1f3a9.png",
+                "name": "1f3a9"
+            },
+            {
+                "file": "1f3aa.png",
+                "path": "smileys/Twemoji/1f3aa.png",
+                "name": "1f3aa"
+            },
+            {
+                "file": "1f3ab.png",
+                "path": "smileys/Twemoji/1f3ab.png",
+                "name": "1f3ab"
+            },
+            {
+                "file": "1f3ac.png",
+                "path": "smileys/Twemoji/1f3ac.png",
+                "name": "1f3ac"
+            },
+            {
+                "file": "1f3ad.png",
+                "path": "smileys/Twemoji/1f3ad.png",
+                "name": "1f3ad"
+            },
+            {
+                "file": "1f3ae.png",
+                "path": "smileys/Twemoji/1f3ae.png",
+                "name": "1f3ae"
+            },
+            {
+                "file": "1f3af.png",
+                "path": "smileys/Twemoji/1f3af.png",
+                "name": "1f3af"
+            },
+            {
+                "file": "1f3b0.png",
+                "path": "smileys/Twemoji/1f3b0.png",
+                "name": "1f3b0"
+            },
+            {
+                "file": "1f3b1.png",
+                "path": "smileys/Twemoji/1f3b1.png",
+                "name": "1f3b1"
+            },
+            {
+                "file": "1f3b2.png",
+                "path": "smileys/Twemoji/1f3b2.png",
+                "name": "1f3b2"
+            },
+            {
+                "file": "1f3b3.png",
+                "path": "smileys/Twemoji/1f3b3.png",
+                "name": "1f3b3"
+            },
+            {
+                "file": "1f3b4.png",
+                "path": "smileys/Twemoji/1f3b4.png",
+                "name": "1f3b4"
+            },
+            {
+                "file": "1f3b5.png",
+                "path": "smileys/Twemoji/1f3b5.png",
+                "name": "1f3b5"
+            },
+            {
+                "file": "1f3b6.png",
+                "path": "smileys/Twemoji/1f3b6.png",
+                "name": "1f3b6"
+            },
+            {
+                "file": "1f3b7.png",
+                "path": "smileys/Twemoji/1f3b7.png",
+                "name": "1f3b7"
+            },
+            {
+                "file": "1f3b8.png",
+                "path": "smileys/Twemoji/1f3b8.png",
+                "name": "1f3b8"
+            },
+            {
+                "file": "1f3b9.png",
+                "path": "smileys/Twemoji/1f3b9.png",
+                "name": "1f3b9"
+            },
+            {
+                "file": "1f3ba.png",
+                "path": "smileys/Twemoji/1f3ba.png",
+                "name": "1f3ba"
+            },
+            {
+                "file": "1f3bb.png",
+                "path": "smileys/Twemoji/1f3bb.png",
+                "name": "1f3bb"
+            },
+            {
+                "file": "1f3bc.png",
+                "path": "smileys/Twemoji/1f3bc.png",
+                "name": "1f3bc"
+            },
+            {
+                "file": "1f3bd.png",
+                "path": "smileys/Twemoji/1f3bd.png",
+                "name": "1f3bd"
+            },
+            {
+                "file": "1f3be.png",
+                "path": "smileys/Twemoji/1f3be.png",
+                "name": "1f3be"
+            },
+            {
+                "file": "1f3bf.png",
+                "path": "smileys/Twemoji/1f3bf.png",
+                "name": "1f3bf"
+            },
+            {
+                "file": "1f3c0.png",
+                "path": "smileys/Twemoji/1f3c0.png",
+                "name": "1f3c0"
+            },
+            {
+                "file": "1f3c1.png",
+                "path": "smileys/Twemoji/1f3c1.png",
+                "name": "1f3c1"
+            },
+            {
+                "file": "1f3c2.png",
+                "path": "smileys/Twemoji/1f3c2.png",
+                "name": "1f3c2"
+            },
+            {
+                "file": "1f3c3.png",
+                "path": "smileys/Twemoji/1f3c3.png",
+                "name": "1f3c3"
+            },
+            {
+                "file": "1f3c4.png",
+                "path": "smileys/Twemoji/1f3c4.png",
+                "name": "1f3c4"
+            },
+            {
+                "file": "1f3c6.png",
+                "path": "smileys/Twemoji/1f3c6.png",
+                "name": "1f3c6"
+            },
+            {
+                "file": "1f3c7.png",
+                "path": "smileys/Twemoji/1f3c7.png",
+                "name": "1f3c7"
+            },
+            {
+                "file": "1f3c8.png",
+                "path": "smileys/Twemoji/1f3c8.png",
+                "name": "1f3c8"
+            },
+            {
+                "file": "1f3c9.png",
+                "path": "smileys/Twemoji/1f3c9.png",
+                "name": "1f3c9"
+            },
+            {
+                "file": "1f3ca.png",
+                "path": "smileys/Twemoji/1f3ca.png",
+                "name": "1f3ca"
+            },
+            {
+                "file": "1f3e0.png",
+                "path": "smileys/Twemoji/1f3e0.png",
+                "name": "1f3e0"
+            },
+            {
+                "file": "1f3e1.png",
+                "path": "smileys/Twemoji/1f3e1.png",
+                "name": "1f3e1"
+            },
+            {
+                "file": "1f3e2.png",
+                "path": "smileys/Twemoji/1f3e2.png",
+                "name": "1f3e2"
+            },
+            {
+                "file": "1f3e3.png",
+                "path": "smileys/Twemoji/1f3e3.png",
+                "name": "1f3e3"
+            },
+            {
+                "file": "1f3e4.png",
+                "path": "smileys/Twemoji/1f3e4.png",
+                "name": "1f3e4"
+            },
+            {
+                "file": "1f3e5.png",
+                "path": "smileys/Twemoji/1f3e5.png",
+                "name": "1f3e5"
+            },
+            {
+                "file": "1f3e6.png",
+                "path": "smileys/Twemoji/1f3e6.png",
+                "name": "1f3e6"
+            },
+            {
+                "file": "1f3e7.png",
+                "path": "smileys/Twemoji/1f3e7.png",
+                "name": "1f3e7"
+            },
+            {
+                "file": "1f3e8.png",
+                "path": "smileys/Twemoji/1f3e8.png",
+                "name": "1f3e8"
+            },
+            {
+                "file": "1f3e9.png",
+                "path": "smileys/Twemoji/1f3e9.png",
+                "name": "1f3e9"
+            },
+            {
+                "file": "1f3ea.png",
+                "path": "smileys/Twemoji/1f3ea.png",
+                "name": "1f3ea"
+            },
+            {
+                "file": "1f3eb.png",
+                "path": "smileys/Twemoji/1f3eb.png",
+                "name": "1f3eb"
+            },
+            {
+                "file": "1f3ec.png",
+                "path": "smileys/Twemoji/1f3ec.png",
+                "name": "1f3ec"
+            },
+            {
+                "file": "1f3ed.png",
+                "path": "smileys/Twemoji/1f3ed.png",
+                "name": "1f3ed"
+            },
+            {
+                "file": "1f3ee.png",
+                "path": "smileys/Twemoji/1f3ee.png",
+                "name": "1f3ee"
+            },
+            {
+                "file": "1f3ef.png",
+                "path": "smileys/Twemoji/1f3ef.png",
+                "name": "1f3ef"
+            },
+            {
+                "file": "1f3f0.png",
+                "path": "smileys/Twemoji/1f3f0.png",
+                "name": "1f3f0"
+            },
+            {
+                "file": "1f400.png",
+                "path": "smileys/Twemoji/1f400.png",
+                "name": "1f400"
+            },
+            {
+                "file": "1f401.png",
+                "path": "smileys/Twemoji/1f401.png",
+                "name": "1f401"
+            },
+            {
+                "file": "1f402.png",
+                "path": "smileys/Twemoji/1f402.png",
+                "name": "1f402"
+            },
+            {
+                "file": "1f403.png",
+                "path": "smileys/Twemoji/1f403.png",
+                "name": "1f403"
+            },
+            {
+                "file": "1f404.png",
+                "path": "smileys/Twemoji/1f404.png",
+                "name": "1f404"
+            },
+            {
+                "file": "1f405.png",
+                "path": "smileys/Twemoji/1f405.png",
+                "name": "1f405"
+            },
+            {
+                "file": "1f406.png",
+                "path": "smileys/Twemoji/1f406.png",
+                "name": "1f406"
+            },
+            {
+                "file": "1f407.png",
+                "path": "smileys/Twemoji/1f407.png",
+                "name": "1f407"
+            },
+            {
+                "file": "1f408.png",
+                "path": "smileys/Twemoji/1f408.png",
+                "name": "1f408"
+            },
+            {
+                "file": "1f409.png",
+                "path": "smileys/Twemoji/1f409.png",
+                "name": "1f409"
+            },
+            {
+                "file": "1f40a.png",
+                "path": "smileys/Twemoji/1f40a.png",
+                "name": "1f40a"
+            },
+            {
+                "file": "1f40b.png",
+                "path": "smileys/Twemoji/1f40b.png",
+                "name": "1f40b"
+            },
+            {
+                "file": "1f40c.png",
+                "path": "smileys/Twemoji/1f40c.png",
+                "name": "1f40c"
+            },
+            {
+                "file": "1f40d.png",
+                "path": "smileys/Twemoji/1f40d.png",
+                "name": "1f40d"
+            },
+            {
+                "file": "1f40e.png",
+                "path": "smileys/Twemoji/1f40e.png",
+                "name": "1f40e"
+            },
+            {
+                "file": "1f40f.png",
+                "path": "smileys/Twemoji/1f40f.png",
+                "name": "1f40f"
+            },
+            {
+                "file": "1f410.png",
+                "path": "smileys/Twemoji/1f410.png",
+                "name": "1f410"
+            },
+            {
+                "file": "1f411.png",
+                "path": "smileys/Twemoji/1f411.png",
+                "name": "1f411"
+            },
+            {
+                "file": "1f412.png",
+                "path": "smileys/Twemoji/1f412.png",
+                "name": "1f412"
+            },
+            {
+                "file": "1f413.png",
+                "path": "smileys/Twemoji/1f413.png",
+                "name": "1f413"
+            },
+            {
+                "file": "1f414.png",
+                "path": "smileys/Twemoji/1f414.png",
+                "name": "1f414"
+            },
+            {
+                "file": "1f415.png",
+                "path": "smileys/Twemoji/1f415.png",
+                "name": "1f415"
+            },
+            {
+                "file": "1f416.png",
+                "path": "smileys/Twemoji/1f416.png",
+                "name": "1f416"
+            },
+            {
+                "file": "1f417.png",
+                "path": "smileys/Twemoji/1f417.png",
+                "name": "1f417"
+            },
+            {
+                "file": "1f418.png",
+                "path": "smileys/Twemoji/1f418.png",
+                "name": "1f418"
+            },
+            {
+                "file": "1f419.png",
+                "path": "smileys/Twemoji/1f419.png",
+                "name": "1f419"
+            },
+            {
+                "file": "1f41a.png",
+                "path": "smileys/Twemoji/1f41a.png",
+                "name": "1f41a"
+            },
+            {
+                "file": "1f41b.png",
+                "path": "smileys/Twemoji/1f41b.png",
+                "name": "1f41b"
+            },
+            {
+                "file": "1f41c.png",
+                "path": "smileys/Twemoji/1f41c.png",
+                "name": "1f41c"
+            },
+            {
+                "file": "1f41d.png",
+                "path": "smileys/Twemoji/1f41d.png",
+                "name": "1f41d"
+            },
+            {
+                "file": "1f41e.png",
+                "path": "smileys/Twemoji/1f41e.png",
+                "name": "1f41e"
+            },
+            {
+                "file": "1f41f.png",
+                "path": "smileys/Twemoji/1f41f.png",
+                "name": "1f41f"
+            },
+            {
+                "file": "1f420.png",
+                "path": "smileys/Twemoji/1f420.png",
+                "name": "1f420"
+            },
+            {
+                "file": "1f421.png",
+                "path": "smileys/Twemoji/1f421.png",
+                "name": "1f421"
+            },
+            {
+                "file": "1f422.png",
+                "path": "smileys/Twemoji/1f422.png",
+                "name": "1f422"
+            },
+            {
+                "file": "1f423.png",
+                "path": "smileys/Twemoji/1f423.png",
+                "name": "1f423"
+            },
+            {
+                "file": "1f424.png",
+                "path": "smileys/Twemoji/1f424.png",
+                "name": "1f424"
+            },
+            {
+                "file": "1f425.png",
+                "path": "smileys/Twemoji/1f425.png",
+                "name": "1f425"
+            },
+            {
+                "file": "1f426.png",
+                "path": "smileys/Twemoji/1f426.png",
+                "name": "1f426"
+            },
+            {
+                "file": "1f427.png",
+                "path": "smileys/Twemoji/1f427.png",
+                "name": "1f427"
+            },
+            {
+                "file": "1f428.png",
+                "path": "smileys/Twemoji/1f428.png",
+                "name": "1f428"
+            },
+            {
+                "file": "1f429.png",
+                "path": "smileys/Twemoji/1f429.png",
+                "name": "1f429"
+            },
+            {
+                "file": "1f42a.png",
+                "path": "smileys/Twemoji/1f42a.png",
+                "name": "1f42a"
+            },
+            {
+                "file": "1f42b.png",
+                "path": "smileys/Twemoji/1f42b.png",
+                "name": "1f42b"
+            },
+            {
+                "file": "1f42c.png",
+                "path": "smileys/Twemoji/1f42c.png",
+                "name": "1f42c"
+            },
+            {
+                "file": "1f42d.png",
+                "path": "smileys/Twemoji/1f42d.png",
+                "name": "1f42d"
+            },
+            {
+                "file": "1f42e.png",
+                "path": "smileys/Twemoji/1f42e.png",
+                "name": "1f42e"
+            },
+            {
+                "file": "1f42f.png",
+                "path": "smileys/Twemoji/1f42f.png",
+                "name": "1f42f"
+            },
+            {
+                "file": "1f430.png",
+                "path": "smileys/Twemoji/1f430.png",
+                "name": "1f430"
+            },
+            {
+                "file": "1f431.png",
+                "path": "smileys/Twemoji/1f431.png",
+                "name": "1f431"
+            },
+            {
+                "file": "1f432.png",
+                "path": "smileys/Twemoji/1f432.png",
+                "name": "1f432"
+            },
+            {
+                "file": "1f433.png",
+                "path": "smileys/Twemoji/1f433.png",
+                "name": "1f433"
+            },
+            {
+                "file": "1f434.png",
+                "path": "smileys/Twemoji/1f434.png",
+                "name": "1f434"
+            },
+            {
+                "file": "1f435.png",
+                "path": "smileys/Twemoji/1f435.png",
+                "name": "1f435"
+            },
+            {
+                "file": "1f436.png",
+                "path": "smileys/Twemoji/1f436.png",
+                "name": "1f436"
+            },
+            {
+                "file": "1f437.png",
+                "path": "smileys/Twemoji/1f437.png",
+                "name": "1f437"
+            },
+            {
+                "file": "1f438.png",
+                "path": "smileys/Twemoji/1f438.png",
+                "name": "1f438"
+            },
+            {
+                "file": "1f439.png",
+                "path": "smileys/Twemoji/1f439.png",
+                "name": "1f439"
+            },
+            {
+                "file": "1f43a.png",
+                "path": "smileys/Twemoji/1f43a.png",
+                "name": "1f43a"
+            },
+            {
+                "file": "1f43b.png",
+                "path": "smileys/Twemoji/1f43b.png",
+                "name": "1f43b"
+            },
+            {
+                "file": "1f43c.png",
+                "path": "smileys/Twemoji/1f43c.png",
+                "name": "1f43c"
+            },
+            {
+                "file": "1f43d.png",
+                "path": "smileys/Twemoji/1f43d.png",
+                "name": "1f43d"
+            },
+            {
+                "file": "1f43e.png",
+                "path": "smileys/Twemoji/1f43e.png",
+                "name": "1f43e"
+            },
+            {
+                "file": "1f440.png",
+                "path": "smileys/Twemoji/1f440.png",
+                "name": "1f440"
+            },
+            {
+                "file": "1f442.png",
+                "path": "smileys/Twemoji/1f442.png",
+                "name": "1f442"
+            },
+            {
+                "file": "1f443.png",
+                "path": "smileys/Twemoji/1f443.png",
+                "name": "1f443"
+            },
+            {
+                "file": "1f444.png",
+                "path": "smileys/Twemoji/1f444.png",
+                "name": "1f444"
+            },
+            {
+                "file": "1f445.png",
+                "path": "smileys/Twemoji/1f445.png",
+                "name": "1f445"
+            },
+            {
+                "file": "1f446.png",
+                "path": "smileys/Twemoji/1f446.png",
+                "name": "1f446"
+            },
+            {
+                "file": "1f447.png",
+                "path": "smileys/Twemoji/1f447.png",
+                "name": "1f447"
+            },
+            {
+                "file": "1f448.png",
+                "path": "smileys/Twemoji/1f448.png",
+                "name": "1f448"
+            },
+            {
+                "file": "1f449.png",
+                "path": "smileys/Twemoji/1f449.png",
+                "name": "1f449"
+            },
+            {
+                "file": "1f44a.png",
+                "path": "smileys/Twemoji/1f44a.png",
+                "name": "1f44a"
+            },
+            {
+                "file": "1f44b.png",
+                "path": "smileys/Twemoji/1f44b.png",
+                "name": "1f44b"
+            },
+            {
+                "file": "1f44c.png",
+                "path": "smileys/Twemoji/1f44c.png",
+                "name": "1f44c"
+            },
+            {
+                "file": "1f44d.png",
+                "path": "smileys/Twemoji/1f44d.png",
+                "name": "1f44d"
+            },
+            {
+                "file": "1f44e.png",
+                "path": "smileys/Twemoji/1f44e.png",
+                "name": "1f44e"
+            },
+            {
+                "file": "1f44f.png",
+                "path": "smileys/Twemoji/1f44f.png",
+                "name": "1f44f"
+            },
+            {
+                "file": "1f450.png",
+                "path": "smileys/Twemoji/1f450.png",
+                "name": "1f450"
+            },
+            {
+                "file": "1f451.png",
+                "path": "smileys/Twemoji/1f451.png",
+                "name": "1f451"
+            },
+            {
+                "file": "1f452.png",
+                "path": "smileys/Twemoji/1f452.png",
+                "name": "1f452"
+            },
+            {
+                "file": "1f453.png",
+                "path": "smileys/Twemoji/1f453.png",
+                "name": "1f453"
+            },
+            {
+                "file": "1f454.png",
+                "path": "smileys/Twemoji/1f454.png",
+                "name": "1f454"
+            },
+            {
+                "file": "1f455.png",
+                "path": "smileys/Twemoji/1f455.png",
+                "name": "1f455"
+            },
+            {
+                "file": "1f456.png",
+                "path": "smileys/Twemoji/1f456.png",
+                "name": "1f456"
+            },
+            {
+                "file": "1f457.png",
+                "path": "smileys/Twemoji/1f457.png",
+                "name": "1f457"
+            },
+            {
+                "file": "1f458.png",
+                "path": "smileys/Twemoji/1f458.png",
+                "name": "1f458"
+            },
+            {
+                "file": "1f459.png",
+                "path": "smileys/Twemoji/1f459.png",
+                "name": "1f459"
+            },
+            {
+                "file": "1f45a.png",
+                "path": "smileys/Twemoji/1f45a.png",
+                "name": "1f45a"
+            },
+            {
+                "file": "1f45b.png",
+                "path": "smileys/Twemoji/1f45b.png",
+                "name": "1f45b"
+            },
+            {
+                "file": "1f45c.png",
+                "path": "smileys/Twemoji/1f45c.png",
+                "name": "1f45c"
+            },
+            {
+                "file": "1f45d.png",
+                "path": "smileys/Twemoji/1f45d.png",
+                "name": "1f45d"
+            },
+            {
+                "file": "1f45e.png",
+                "path": "smileys/Twemoji/1f45e.png",
+                "name": "1f45e"
+            },
+            {
+                "file": "1f45f.png",
+                "path": "smileys/Twemoji/1f45f.png",
+                "name": "1f45f"
+            },
+            {
+                "file": "1f460.png",
+                "path": "smileys/Twemoji/1f460.png",
+                "name": "1f460"
+            },
+            {
+                "file": "1f461.png",
+                "path": "smileys/Twemoji/1f461.png",
+                "name": "1f461"
+            },
+            {
+                "file": "1f462.png",
+                "path": "smileys/Twemoji/1f462.png",
+                "name": "1f462"
+            },
+            {
+                "file": "1f463.png",
+                "path": "smileys/Twemoji/1f463.png",
+                "name": "1f463"
+            },
+            {
+                "file": "1f464.png",
+                "path": "smileys/Twemoji/1f464.png",
+                "name": "1f464"
+            },
+            {
+                "file": "1f465.png",
+                "path": "smileys/Twemoji/1f465.png",
+                "name": "1f465"
+            },
+            {
+                "file": "1f466.png",
+                "path": "smileys/Twemoji/1f466.png",
+                "name": "1f466"
+            },
+            {
+                "file": "1f467.png",
+                "path": "smileys/Twemoji/1f467.png",
+                "name": "1f467"
+            },
+            {
+                "file": "1f468.png",
+                "path": "smileys/Twemoji/1f468.png",
+                "name": "1f468"
+            },
+            {
+                "file": "1f469.png",
+                "path": "smileys/Twemoji/1f469.png",
+                "name": "1f469"
+            },
+            {
+                "file": "1f46a.png",
+                "path": "smileys/Twemoji/1f46a.png",
+                "name": "1f46a"
+            },
+            {
+                "file": "1f46b.png",
+                "path": "smileys/Twemoji/1f46b.png",
+                "name": "1f46b"
+            },
+            {
+                "file": "1f46c.png",
+                "path": "smileys/Twemoji/1f46c.png",
+                "name": "1f46c"
+            },
+            {
+                "file": "1f46d.png",
+                "path": "smileys/Twemoji/1f46d.png",
+                "name": "1f46d"
+            },
+            {
+                "file": "1f46e.png",
+                "path": "smileys/Twemoji/1f46e.png",
+                "name": "1f46e"
+            },
+            {
+                "file": "1f46f.png",
+                "path": "smileys/Twemoji/1f46f.png",
+                "name": "1f46f"
+            },
+            {
+                "file": "1f470.png",
+                "path": "smileys/Twemoji/1f470.png",
+                "name": "1f470"
+            },
+            {
+                "file": "1f471.png",
+                "path": "smileys/Twemoji/1f471.png",
+                "name": "1f471"
+            },
+            {
+                "file": "1f472.png",
+                "path": "smileys/Twemoji/1f472.png",
+                "name": "1f472"
+            },
+            {
+                "file": "1f473.png",
+                "path": "smileys/Twemoji/1f473.png",
+                "name": "1f473"
+            },
+            {
+                "file": "1f474.png",
+                "path": "smileys/Twemoji/1f474.png",
+                "name": "1f474"
+            },
+            {
+                "file": "1f475.png",
+                "path": "smileys/Twemoji/1f475.png",
+                "name": "1f475"
+            },
+            {
+                "file": "1f476.png",
+                "path": "smileys/Twemoji/1f476.png",
+                "name": "1f476"
+            },
+            {
+                "file": "1f477.png",
+                "path": "smileys/Twemoji/1f477.png",
+                "name": "1f477"
+            },
+            {
+                "file": "1f478.png",
+                "path": "smileys/Twemoji/1f478.png",
+                "name": "1f478"
+            },
+            {
+                "file": "1f479.png",
+                "path": "smileys/Twemoji/1f479.png",
+                "name": "1f479"
+            },
+            {
+                "file": "1f47a.png",
+                "path": "smileys/Twemoji/1f47a.png",
+                "name": "1f47a"
+            },
+            {
+                "file": "1f47b.png",
+                "path": "smileys/Twemoji/1f47b.png",
+                "name": "1f47b"
+            },
+            {
+                "file": "1f47c.png",
+                "path": "smileys/Twemoji/1f47c.png",
+                "name": "1f47c"
+            },
+            {
+                "file": "1f47d.png",
+                "path": "smileys/Twemoji/1f47d.png",
+                "name": "1f47d"
+            },
+            {
+                "file": "1f47e.png",
+                "path": "smileys/Twemoji/1f47e.png",
+                "name": "1f47e"
+            },
+            {
+                "file": "1f47f.png",
+                "path": "smileys/Twemoji/1f47f.png",
+                "name": "1f47f"
+            },
+            {
+                "file": "1f480.png",
+                "path": "smileys/Twemoji/1f480.png",
+                "name": "1f480"
+            },
+            {
+                "file": "1f481.png",
+                "path": "smileys/Twemoji/1f481.png",
+                "name": "1f481"
+            },
+            {
+                "file": "1f482.png",
+                "path": "smileys/Twemoji/1f482.png",
+                "name": "1f482"
+            },
+            {
+                "file": "1f483.png",
+                "path": "smileys/Twemoji/1f483.png",
+                "name": "1f483"
+            },
+            {
+                "file": "1f484.png",
+                "path": "smileys/Twemoji/1f484.png",
+                "name": "1f484"
+            },
+            {
+                "file": "1f485.png",
+                "path": "smileys/Twemoji/1f485.png",
+                "name": "1f485"
+            },
+            {
+                "file": "1f486.png",
+                "path": "smileys/Twemoji/1f486.png",
+                "name": "1f486"
+            },
+            {
+                "file": "1f487.png",
+                "path": "smileys/Twemoji/1f487.png",
+                "name": "1f487"
+            },
+            {
+                "file": "1f488.png",
+                "path": "smileys/Twemoji/1f488.png",
+                "name": "1f488"
+            },
+            {
+                "file": "1f489.png",
+                "path": "smileys/Twemoji/1f489.png",
+                "name": "1f489"
+            },
+            {
+                "file": "1f48a.png",
+                "path": "smileys/Twemoji/1f48a.png",
+                "name": "1f48a"
+            },
+            {
+                "file": "1f48b.png",
+                "path": "smileys/Twemoji/1f48b.png",
+                "name": "1f48b"
+            },
+            {
+                "file": "1f48c.png",
+                "path": "smileys/Twemoji/1f48c.png",
+                "name": "1f48c"
+            },
+            {
+                "file": "1f48d.png",
+                "path": "smileys/Twemoji/1f48d.png",
+                "name": "1f48d"
+            },
+            {
+                "file": "1f48e.png",
+                "path": "smileys/Twemoji/1f48e.png",
+                "name": "1f48e"
+            },
+            {
+                "file": "1f48f.png",
+                "path": "smileys/Twemoji/1f48f.png",
+                "name": "1f48f"
+            },
+            {
+                "file": "1f490.png",
+                "path": "smileys/Twemoji/1f490.png",
+                "name": "1f490"
+            },
+            {
+                "file": "1f491.png",
+                "path": "smileys/Twemoji/1f491.png",
+                "name": "1f491"
+            },
+            {
+                "file": "1f492.png",
+                "path": "smileys/Twemoji/1f492.png",
+                "name": "1f492"
+            },
+            {
+                "file": "1f493.png",
+                "path": "smileys/Twemoji/1f493.png",
+                "name": "1f493"
+            },
+            {
+                "file": "1f494.png",
+                "path": "smileys/Twemoji/1f494.png",
+                "name": "1f494"
+            },
+            {
+                "file": "1f495.png",
+                "path": "smileys/Twemoji/1f495.png",
+                "name": "1f495"
+            },
+            {
+                "file": "1f496.png",
+                "path": "smileys/Twemoji/1f496.png",
+                "name": "1f496"
+            },
+            {
+                "file": "1f497.png",
+                "path": "smileys/Twemoji/1f497.png",
+                "name": "1f497"
+            },
+            {
+                "file": "1f498.png",
+                "path": "smileys/Twemoji/1f498.png",
+                "name": "1f498"
+            },
+            {
+                "file": "1f499.png",
+                "path": "smileys/Twemoji/1f499.png",
+                "name": "1f499"
+            },
+            {
+                "file": "1f49a.png",
+                "path": "smileys/Twemoji/1f49a.png",
+                "name": "1f49a"
+            },
+            {
+                "file": "1f49b.png",
+                "path": "smileys/Twemoji/1f49b.png",
+                "name": "1f49b"
+            },
+            {
+                "file": "1f49c.png",
+                "path": "smileys/Twemoji/1f49c.png",
+                "name": "1f49c"
+            },
+            {
+                "file": "1f49d.png",
+                "path": "smileys/Twemoji/1f49d.png",
+                "name": "1f49d"
+            },
+            {
+                "file": "1f49e.png",
+                "path": "smileys/Twemoji/1f49e.png",
+                "name": "1f49e"
+            },
+            {
+                "file": "1f49f.png",
+                "path": "smileys/Twemoji/1f49f.png",
+                "name": "1f49f"
+            },
+            {
+                "file": "1f4a0.png",
+                "path": "smileys/Twemoji/1f4a0.png",
+                "name": "1f4a0"
+            },
+            {
+                "file": "1f4a1.png",
+                "path": "smileys/Twemoji/1f4a1.png",
+                "name": "1f4a1"
+            },
+            {
+                "file": "1f4a2.png",
+                "path": "smileys/Twemoji/1f4a2.png",
+                "name": "1f4a2"
+            },
+            {
+                "file": "1f4a3.png",
+                "path": "smileys/Twemoji/1f4a3.png",
+                "name": "1f4a3"
+            },
+            {
+                "file": "1f4a4.png",
+                "path": "smileys/Twemoji/1f4a4.png",
+                "name": "1f4a4"
+            },
+            {
+                "file": "1f4a5.png",
+                "path": "smileys/Twemoji/1f4a5.png",
+                "name": "1f4a5"
+            },
+            {
+                "file": "1f4a6.png",
+                "path": "smileys/Twemoji/1f4a6.png",
+                "name": "1f4a6"
+            },
+            {
+                "file": "1f4a7.png",
+                "path": "smileys/Twemoji/1f4a7.png",
+                "name": "1f4a7"
+            },
+            {
+                "file": "1f4a8.png",
+                "path": "smileys/Twemoji/1f4a8.png",
+                "name": "1f4a8"
+            },
+            {
+                "file": "1f4a9.png",
+                "path": "smileys/Twemoji/1f4a9.png",
+                "name": "1f4a9"
+            },
+            {
+                "file": "1f4aa.png",
+                "path": "smileys/Twemoji/1f4aa.png",
+                "name": "1f4aa"
+            },
+            {
+                "file": "1f4ab.png",
+                "path": "smileys/Twemoji/1f4ab.png",
+                "name": "1f4ab"
+            },
+            {
+                "file": "1f4ac.png",
+                "path": "smileys/Twemoji/1f4ac.png",
+                "name": "1f4ac"
+            },
+            {
+                "file": "1f4ad.png",
+                "path": "smileys/Twemoji/1f4ad.png",
+                "name": "1f4ad"
+            },
+            {
+                "file": "1f4ae.png",
+                "path": "smileys/Twemoji/1f4ae.png",
+                "name": "1f4ae"
+            },
+            {
+                "file": "1f4af.png",
+                "path": "smileys/Twemoji/1f4af.png",
+                "name": "1f4af"
+            },
+            {
+                "file": "1f4b0.png",
+                "path": "smileys/Twemoji/1f4b0.png",
+                "name": "1f4b0"
+            },
+            {
+                "file": "1f4b1.png",
+                "path": "smileys/Twemoji/1f4b1.png",
+                "name": "1f4b1"
+            },
+            {
+                "file": "1f4b2.png",
+                "path": "smileys/Twemoji/1f4b2.png",
+                "name": "1f4b2"
+            },
+            {
+                "file": "1f4b3.png",
+                "path": "smileys/Twemoji/1f4b3.png",
+                "name": "1f4b3"
+            },
+            {
+                "file": "1f4b4.png",
+                "path": "smileys/Twemoji/1f4b4.png",
+                "name": "1f4b4"
+            },
+            {
+                "file": "1f4b5.png",
+                "path": "smileys/Twemoji/1f4b5.png",
+                "name": "1f4b5"
+            },
+            {
+                "file": "1f4b6.png",
+                "path": "smileys/Twemoji/1f4b6.png",
+                "name": "1f4b6"
+            },
+            {
+                "file": "1f4b7.png",
+                "path": "smileys/Twemoji/1f4b7.png",
+                "name": "1f4b7"
+            },
+            {
+                "file": "1f4b8.png",
+                "path": "smileys/Twemoji/1f4b8.png",
+                "name": "1f4b8"
+            },
+            {
+                "file": "1f4b9.png",
+                "path": "smileys/Twemoji/1f4b9.png",
+                "name": "1f4b9"
+            },
+            {
+                "file": "1f4ba.png",
+                "path": "smileys/Twemoji/1f4ba.png",
+                "name": "1f4ba"
+            },
+            {
+                "file": "1f4bb.png",
+                "path": "smileys/Twemoji/1f4bb.png",
+                "name": "1f4bb"
+            },
+            {
+                "file": "1f4bc.png",
+                "path": "smileys/Twemoji/1f4bc.png",
+                "name": "1f4bc"
+            },
+            {
+                "file": "1f4bd.png",
+                "path": "smileys/Twemoji/1f4bd.png",
+                "name": "1f4bd"
+            },
+            {
+                "file": "1f4be.png",
+                "path": "smileys/Twemoji/1f4be.png",
+                "name": "1f4be"
+            },
+            {
+                "file": "1f4bf.png",
+                "path": "smileys/Twemoji/1f4bf.png",
+                "name": "1f4bf"
+            },
+            {
+                "file": "1f4c0.png",
+                "path": "smileys/Twemoji/1f4c0.png",
+                "name": "1f4c0"
+            },
+            {
+                "file": "1f4c1.png",
+                "path": "smileys/Twemoji/1f4c1.png",
+                "name": "1f4c1"
+            },
+            {
+                "file": "1f4c2.png",
+                "path": "smileys/Twemoji/1f4c2.png",
+                "name": "1f4c2"
+            },
+            {
+                "file": "1f4c3.png",
+                "path": "smileys/Twemoji/1f4c3.png",
+                "name": "1f4c3"
+            },
+            {
+                "file": "1f4c4.png",
+                "path": "smileys/Twemoji/1f4c4.png",
+                "name": "1f4c4"
+            },
+            {
+                "file": "1f4c5.png",
+                "path": "smileys/Twemoji/1f4c5.png",
+                "name": "1f4c5"
+            },
+            {
+                "file": "1f4c6.png",
+                "path": "smileys/Twemoji/1f4c6.png",
+                "name": "1f4c6"
+            },
+            {
+                "file": "1f4c7.png",
+                "path": "smileys/Twemoji/1f4c7.png",
+                "name": "1f4c7"
+            },
+            {
+                "file": "1f4c8.png",
+                "path": "smileys/Twemoji/1f4c8.png",
+                "name": "1f4c8"
+            },
+            {
+                "file": "1f4c9.png",
+                "path": "smileys/Twemoji/1f4c9.png",
+                "name": "1f4c9"
+            },
+            {
+                "file": "1f4ca.png",
+                "path": "smileys/Twemoji/1f4ca.png",
+                "name": "1f4ca"
+            },
+            {
+                "file": "1f4cb.png",
+                "path": "smileys/Twemoji/1f4cb.png",
+                "name": "1f4cb"
+            },
+            {
+                "file": "1f4cc.png",
+                "path": "smileys/Twemoji/1f4cc.png",
+                "name": "1f4cc"
+            },
+            {
+                "file": "1f4cd.png",
+                "path": "smileys/Twemoji/1f4cd.png",
+                "name": "1f4cd"
+            },
+            {
+                "file": "1f4ce.png",
+                "path": "smileys/Twemoji/1f4ce.png",
+                "name": "1f4ce"
+            },
+            {
+                "file": "1f4cf.png",
+                "path": "smileys/Twemoji/1f4cf.png",
+                "name": "1f4cf"
+            },
+            {
+                "file": "1f4d0.png",
+                "path": "smileys/Twemoji/1f4d0.png",
+                "name": "1f4d0"
+            },
+            {
+                "file": "1f4d1.png",
+                "path": "smileys/Twemoji/1f4d1.png",
+                "name": "1f4d1"
+            },
+            {
+                "file": "1f4d2.png",
+                "path": "smileys/Twemoji/1f4d2.png",
+                "name": "1f4d2"
+            },
+            {
+                "file": "1f4d3.png",
+                "path": "smileys/Twemoji/1f4d3.png",
+                "name": "1f4d3"
+            },
+            {
+                "file": "1f4d4.png",
+                "path": "smileys/Twemoji/1f4d4.png",
+                "name": "1f4d4"
+            },
+            {
+                "file": "1f4d5.png",
+                "path": "smileys/Twemoji/1f4d5.png",
+                "name": "1f4d5"
+            },
+            {
+                "file": "1f4d6.png",
+                "path": "smileys/Twemoji/1f4d6.png",
+                "name": "1f4d6"
+            },
+            {
+                "file": "1f4d7.png",
+                "path": "smileys/Twemoji/1f4d7.png",
+                "name": "1f4d7"
+            },
+            {
+                "file": "1f4d8.png",
+                "path": "smileys/Twemoji/1f4d8.png",
+                "name": "1f4d8"
+            },
+            {
+                "file": "1f4d9.png",
+                "path": "smileys/Twemoji/1f4d9.png",
+                "name": "1f4d9"
+            },
+            {
+                "file": "1f4da.png",
+                "path": "smileys/Twemoji/1f4da.png",
+                "name": "1f4da"
+            },
+            {
+                "file": "1f4db.png",
+                "path": "smileys/Twemoji/1f4db.png",
+                "name": "1f4db"
+            },
+            {
+                "file": "1f4dc.png",
+                "path": "smileys/Twemoji/1f4dc.png",
+                "name": "1f4dc"
+            },
+            {
+                "file": "1f4dd.png",
+                "path": "smileys/Twemoji/1f4dd.png",
+                "name": "1f4dd"
+            },
+            {
+                "file": "1f4de.png",
+                "path": "smileys/Twemoji/1f4de.png",
+                "name": "1f4de"
+            },
+            {
+                "file": "1f4df.png",
+                "path": "smileys/Twemoji/1f4df.png",
+                "name": "1f4df"
+            },
+            {
+                "file": "1f4e0.png",
+                "path": "smileys/Twemoji/1f4e0.png",
+                "name": "1f4e0"
+            },
+            {
+                "file": "1f4e1.png",
+                "path": "smileys/Twemoji/1f4e1.png",
+                "name": "1f4e1"
+            },
+            {
+                "file": "1f4e2.png",
+                "path": "smileys/Twemoji/1f4e2.png",
+                "name": "1f4e2"
+            },
+            {
+                "file": "1f4e3.png",
+                "path": "smileys/Twemoji/1f4e3.png",
+                "name": "1f4e3"
+            },
+            {
+                "file": "1f4e4.png",
+                "path": "smileys/Twemoji/1f4e4.png",
+                "name": "1f4e4"
+            },
+            {
+                "file": "1f4e5.png",
+                "path": "smileys/Twemoji/1f4e5.png",
+                "name": "1f4e5"
+            },
+            {
+                "file": "1f4e6.png",
+                "path": "smileys/Twemoji/1f4e6.png",
+                "name": "1f4e6"
+            },
+            {
+                "file": "1f4e7.png",
+                "path": "smileys/Twemoji/1f4e7.png",
+                "name": "1f4e7"
+            },
+            {
+                "file": "1f4e8.png",
+                "path": "smileys/Twemoji/1f4e8.png",
+                "name": "1f4e8"
+            },
+            {
+                "file": "1f4e9.png",
+                "path": "smileys/Twemoji/1f4e9.png",
+                "name": "1f4e9"
+            },
+            {
+                "file": "1f4ea.png",
+                "path": "smileys/Twemoji/1f4ea.png",
+                "name": "1f4ea"
+            },
+            {
+                "file": "1f4eb.png",
+                "path": "smileys/Twemoji/1f4eb.png",
+                "name": "1f4eb"
+            },
+            {
+                "file": "1f4ec.png",
+                "path": "smileys/Twemoji/1f4ec.png",
+                "name": "1f4ec"
+            },
+            {
+                "file": "1f4ed.png",
+                "path": "smileys/Twemoji/1f4ed.png",
+                "name": "1f4ed"
+            },
+            {
+                "file": "1f4ee.png",
+                "path": "smileys/Twemoji/1f4ee.png",
+                "name": "1f4ee"
+            },
+            {
+                "file": "1f4ef.png",
+                "path": "smileys/Twemoji/1f4ef.png",
+                "name": "1f4ef"
+            },
+            {
+                "file": "1f4f0.png",
+                "path": "smileys/Twemoji/1f4f0.png",
+                "name": "1f4f0"
+            },
+            {
+                "file": "1f4f1.png",
+                "path": "smileys/Twemoji/1f4f1.png",
+                "name": "1f4f1"
+            },
+            {
+                "file": "1f4f2.png",
+                "path": "smileys/Twemoji/1f4f2.png",
+                "name": "1f4f2"
+            },
+            {
+                "file": "1f4f3.png",
+                "path": "smileys/Twemoji/1f4f3.png",
+                "name": "1f4f3"
+            },
+            {
+                "file": "1f4f4.png",
+                "path": "smileys/Twemoji/1f4f4.png",
+                "name": "1f4f4"
+            },
+            {
+                "file": "1f4f5.png",
+                "path": "smileys/Twemoji/1f4f5.png",
+                "name": "1f4f5"
+            },
+            {
+                "file": "1f4f6.png",
+                "path": "smileys/Twemoji/1f4f6.png",
+                "name": "1f4f6"
+            },
+            {
+                "file": "1f4f7.png",
+                "path": "smileys/Twemoji/1f4f7.png",
+                "name": "1f4f7"
+            },
+            {
+                "file": "1f4f9.png",
+                "path": "smileys/Twemoji/1f4f9.png",
+                "name": "1f4f9"
+            },
+            {
+                "file": "1f4fa.png",
+                "path": "smileys/Twemoji/1f4fa.png",
+                "name": "1f4fa"
+            },
+            {
+                "file": "1f4fb.png",
+                "path": "smileys/Twemoji/1f4fb.png",
+                "name": "1f4fb"
+            },
+            {
+                "file": "1f4fc.png",
+                "path": "smileys/Twemoji/1f4fc.png",
+                "name": "1f4fc"
+            },
+            {
+                "file": "1f500.png",
+                "path": "smileys/Twemoji/1f500.png",
+                "name": "1f500"
+            },
+            {
+                "file": "1f501.png",
+                "path": "smileys/Twemoji/1f501.png",
+                "name": "1f501"
+            },
+            {
+                "file": "1f502.png",
+                "path": "smileys/Twemoji/1f502.png",
+                "name": "1f502"
+            },
+            {
+                "file": "1f503.png",
+                "path": "smileys/Twemoji/1f503.png",
+                "name": "1f503"
+            },
+            {
+                "file": "1f504.png",
+                "path": "smileys/Twemoji/1f504.png",
+                "name": "1f504"
+            },
+            {
+                "file": "1f505.png",
+                "path": "smileys/Twemoji/1f505.png",
+                "name": "1f505"
+            },
+            {
+                "file": "1f506.png",
+                "path": "smileys/Twemoji/1f506.png",
+                "name": "1f506"
+            },
+            {
+                "file": "1f507.png",
+                "path": "smileys/Twemoji/1f507.png",
+                "name": "1f507"
+            },
+            {
+                "file": "1f508.png",
+                "path": "smileys/Twemoji/1f508.png",
+                "name": "1f508"
+            },
+            {
+                "file": "1f509.png",
+                "path": "smileys/Twemoji/1f509.png",
+                "name": "1f509"
+            },
+            {
+                "file": "1f50a.png",
+                "path": "smileys/Twemoji/1f50a.png",
+                "name": "1f50a"
+            },
+            {
+                "file": "1f50b.png",
+                "path": "smileys/Twemoji/1f50b.png",
+                "name": "1f50b"
+            },
+            {
+                "file": "1f50c.png",
+                "path": "smileys/Twemoji/1f50c.png",
+                "name": "1f50c"
+            },
+            {
+                "file": "1f50d.png",
+                "path": "smileys/Twemoji/1f50d.png",
+                "name": "1f50d"
+            },
+            {
+                "file": "1f50e.png",
+                "path": "smileys/Twemoji/1f50e.png",
+                "name": "1f50e"
+            },
+            {
+                "file": "1f50f.png",
+                "path": "smileys/Twemoji/1f50f.png",
+                "name": "1f50f"
+            },
+            {
+                "file": "1f510.png",
+                "path": "smileys/Twemoji/1f510.png",
+                "name": "1f510"
+            },
+            {
+                "file": "1f511.png",
+                "path": "smileys/Twemoji/1f511.png",
+                "name": "1f511"
+            },
+            {
+                "file": "1f512.png",
+                "path": "smileys/Twemoji/1f512.png",
+                "name": "1f512"
+            },
+            {
+                "file": "1f513.png",
+                "path": "smileys/Twemoji/1f513.png",
+                "name": "1f513"
+            },
+            {
+                "file": "1f514.png",
+                "path": "smileys/Twemoji/1f514.png",
+                "name": "1f514"
+            },
+            {
+                "file": "1f515.png",
+                "path": "smileys/Twemoji/1f515.png",
+                "name": "1f515"
+            },
+            {
+                "file": "1f516.png",
+                "path": "smileys/Twemoji/1f516.png",
+                "name": "1f516"
+            },
+            {
+                "file": "1f517.png",
+                "path": "smileys/Twemoji/1f517.png",
+                "name": "1f517"
+            },
+            {
+                "file": "1f518.png",
+                "path": "smileys/Twemoji/1f518.png",
+                "name": "1f518"
+            },
+            {
+                "file": "1f519.png",
+                "path": "smileys/Twemoji/1f519.png",
+                "name": "1f519"
+            },
+            {
+                "file": "1f51a.png",
+                "path": "smileys/Twemoji/1f51a.png",
+                "name": "1f51a"
+            },
+            {
+                "file": "1f51b.png",
+                "path": "smileys/Twemoji/1f51b.png",
+                "name": "1f51b"
+            },
+            {
+                "file": "1f51c.png",
+                "path": "smileys/Twemoji/1f51c.png",
+                "name": "1f51c"
+            },
+            {
+                "file": "1f51d.png",
+                "path": "smileys/Twemoji/1f51d.png",
+                "name": "1f51d"
+            },
+            {
+                "file": "1f51e.png",
+                "path": "smileys/Twemoji/1f51e.png",
+                "name": "1f51e"
+            },
+            {
+                "file": "1f51f.png",
+                "path": "smileys/Twemoji/1f51f.png",
+                "name": "1f51f"
+            },
+            {
+                "file": "1f520.png",
+                "path": "smileys/Twemoji/1f520.png",
+                "name": "1f520"
+            },
+            {
+                "file": "1f521.png",
+                "path": "smileys/Twemoji/1f521.png",
+                "name": "1f521"
+            },
+            {
+                "file": "1f522.png",
+                "path": "smileys/Twemoji/1f522.png",
+                "name": "1f522"
+            },
+            {
+                "file": "1f523.png",
+                "path": "smileys/Twemoji/1f523.png",
+                "name": "1f523"
+            },
+            {
+                "file": "1f524.png",
+                "path": "smileys/Twemoji/1f524.png",
+                "name": "1f524"
+            },
+            {
+                "file": "1f525.png",
+                "path": "smileys/Twemoji/1f525.png",
+                "name": "1f525"
+            },
+            {
+                "file": "1f526.png",
+                "path": "smileys/Twemoji/1f526.png",
+                "name": "1f526"
+            },
+            {
+                "file": "1f527.png",
+                "path": "smileys/Twemoji/1f527.png",
+                "name": "1f527"
+            },
+            {
+                "file": "1f528.png",
+                "path": "smileys/Twemoji/1f528.png",
+                "name": "1f528"
+            },
+            {
+                "file": "1f529.png",
+                "path": "smileys/Twemoji/1f529.png",
+                "name": "1f529"
+            },
+            {
+                "file": "1f52a.png",
+                "path": "smileys/Twemoji/1f52a.png",
+                "name": "1f52a"
+            },
+            {
+                "file": "1f52b.png",
+                "path": "smileys/Twemoji/1f52b.png",
+                "name": "1f52b"
+            },
+            {
+                "file": "1f52c.png",
+                "path": "smileys/Twemoji/1f52c.png",
+                "name": "1f52c"
+            },
+            {
+                "file": "1f52d.png",
+                "path": "smileys/Twemoji/1f52d.png",
+                "name": "1f52d"
+            },
+            {
+                "file": "1f52e.png",
+                "path": "smileys/Twemoji/1f52e.png",
+                "name": "1f52e"
+            },
+            {
+                "file": "1f52f.png",
+                "path": "smileys/Twemoji/1f52f.png",
+                "name": "1f52f"
+            },
+            {
+                "file": "1f530.png",
+                "path": "smileys/Twemoji/1f530.png",
+                "name": "1f530"
+            },
+            {
+                "file": "1f531.png",
+                "path": "smileys/Twemoji/1f531.png",
+                "name": "1f531"
+            },
+            {
+                "file": "1f532.png",
+                "path": "smileys/Twemoji/1f532.png",
+                "name": "1f532"
+            },
+            {
+                "file": "1f533.png",
+                "path": "smileys/Twemoji/1f533.png",
+                "name": "1f533"
+            },
+            {
+                "file": "1f534.png",
+                "path": "smileys/Twemoji/1f534.png",
+                "name": "1f534"
+            },
+            {
+                "file": "1f535.png",
+                "path": "smileys/Twemoji/1f535.png",
+                "name": "1f535"
+            },
+            {
+                "file": "1f536.png",
+                "path": "smileys/Twemoji/1f536.png",
+                "name": "1f536"
+            },
+            {
+                "file": "1f537.png",
+                "path": "smileys/Twemoji/1f537.png",
+                "name": "1f537"
+            },
+            {
+                "file": "1f538.png",
+                "path": "smileys/Twemoji/1f538.png",
+                "name": "1f538"
+            },
+            {
+                "file": "1f539.png",
+                "path": "smileys/Twemoji/1f539.png",
+                "name": "1f539"
+            },
+            {
+                "file": "1f53a.png",
+                "path": "smileys/Twemoji/1f53a.png",
+                "name": "1f53a"
+            },
+            {
+                "file": "1f53b.png",
+                "path": "smileys/Twemoji/1f53b.png",
+                "name": "1f53b"
+            },
+            {
+                "file": "1f53c.png",
+                "path": "smileys/Twemoji/1f53c.png",
+                "name": "1f53c"
+            },
+            {
+                "file": "1f53d.png",
+                "path": "smileys/Twemoji/1f53d.png",
+                "name": "1f53d"
+            },
+            {
+                "file": "1f550.png",
+                "path": "smileys/Twemoji/1f550.png",
+                "name": "1f550"
+            },
+            {
+                "file": "1f551.png",
+                "path": "smileys/Twemoji/1f551.png",
+                "name": "1f551"
+            },
+            {
+                "file": "1f552.png",
+                "path": "smileys/Twemoji/1f552.png",
+                "name": "1f552"
+            },
+            {
+                "file": "1f553.png",
+                "path": "smileys/Twemoji/1f553.png",
+                "name": "1f553"
+            },
+            {
+                "file": "1f554.png",
+                "path": "smileys/Twemoji/1f554.png",
+                "name": "1f554"
+            },
+            {
+                "file": "1f555.png",
+                "path": "smileys/Twemoji/1f555.png",
+                "name": "1f555"
+            },
+            {
+                "file": "1f556.png",
+                "path": "smileys/Twemoji/1f556.png",
+                "name": "1f556"
+            },
+            {
+                "file": "1f557.png",
+                "path": "smileys/Twemoji/1f557.png",
+                "name": "1f557"
+            },
+            {
+                "file": "1f558.png",
+                "path": "smileys/Twemoji/1f558.png",
+                "name": "1f558"
+            },
+            {
+                "file": "1f559.png",
+                "path": "smileys/Twemoji/1f559.png",
+                "name": "1f559"
+            },
+            {
+                "file": "1f55a.png",
+                "path": "smileys/Twemoji/1f55a.png",
+                "name": "1f55a"
+            },
+            {
+                "file": "1f55b.png",
+                "path": "smileys/Twemoji/1f55b.png",
+                "name": "1f55b"
+            },
+            {
+                "file": "1f55c.png",
+                "path": "smileys/Twemoji/1f55c.png",
+                "name": "1f55c"
+            },
+            {
+                "file": "1f55d.png",
+                "path": "smileys/Twemoji/1f55d.png",
+                "name": "1f55d"
+            },
+            {
+                "file": "1f55e.png",
+                "path": "smileys/Twemoji/1f55e.png",
+                "name": "1f55e"
+            },
+            {
+                "file": "1f55f.png",
+                "path": "smileys/Twemoji/1f55f.png",
+                "name": "1f55f"
+            },
+            {
+                "file": "1f560.png",
+                "path": "smileys/Twemoji/1f560.png",
+                "name": "1f560"
+            },
+            {
+                "file": "1f561.png",
+                "path": "smileys/Twemoji/1f561.png",
+                "name": "1f561"
+            },
+            {
+                "file": "1f562.png",
+                "path": "smileys/Twemoji/1f562.png",
+                "name": "1f562"
+            },
+            {
+                "file": "1f563.png",
+                "path": "smileys/Twemoji/1f563.png",
+                "name": "1f563"
+            },
+            {
+                "file": "1f564.png",
+                "path": "smileys/Twemoji/1f564.png",
+                "name": "1f564"
+            },
+            {
+                "file": "1f565.png",
+                "path": "smileys/Twemoji/1f565.png",
+                "name": "1f565"
+            },
+            {
+                "file": "1f566.png",
+                "path": "smileys/Twemoji/1f566.png",
+                "name": "1f566"
+            },
+            {
+                "file": "1f567.png",
+                "path": "smileys/Twemoji/1f567.png",
+                "name": "1f567"
+            },
+            {
+                "file": "1f5fb.png",
+                "path": "smileys/Twemoji/1f5fb.png",
+                "name": "1f5fb"
+            },
+            {
+                "file": "1f5fc.png",
+                "path": "smileys/Twemoji/1f5fc.png",
+                "name": "1f5fc"
+            },
+            {
+                "file": "1f5fd.png",
+                "path": "smileys/Twemoji/1f5fd.png",
+                "name": "1f5fd"
+            },
+            {
+                "file": "1f5fe.png",
+                "path": "smileys/Twemoji/1f5fe.png",
+                "name": "1f5fe"
+            },
+            {
+                "file": "1f5ff.png",
+                "path": "smileys/Twemoji/1f5ff.png",
+                "name": "1f5ff"
+            },
+            {
+                "file": "1f600.png",
+                "path": "smileys/Twemoji/1f600.png",
+                "name": "1f600"
+            },
+            {
+                "file": "1f601.png",
+                "path": "smileys/Twemoji/1f601.png",
+                "name": "1f601"
+            },
+            {
+                "file": "1f602.png",
+                "path": "smileys/Twemoji/1f602.png",
+                "name": "1f602"
+            },
+            {
+                "file": "1f603.png",
+                "path": "smileys/Twemoji/1f603.png",
+                "name": "1f603"
+            },
+            {
+                "file": "1f604.png",
+                "path": "smileys/Twemoji/1f604.png",
+                "name": "1f604"
+            },
+            {
+                "file": "1f605.png",
+                "path": "smileys/Twemoji/1f605.png",
+                "name": "1f605"
+            },
+            {
+                "file": "1f606.png",
+                "path": "smileys/Twemoji/1f606.png",
+                "name": "1f606"
+            },
+            {
+                "file": "1f607.png",
+                "path": "smileys/Twemoji/1f607.png",
+                "name": "1f607"
+            },
+            {
+                "file": "1f608.png",
+                "path": "smileys/Twemoji/1f608.png",
+                "name": "1f608"
+            },
+            {
+                "file": "1f609.png",
+                "path": "smileys/Twemoji/1f609.png",
+                "name": "1f609"
+            },
+            {
+                "file": "1f60a.png",
+                "path": "smileys/Twemoji/1f60a.png",
+                "name": "1f60a"
+            },
+            {
+                "file": "1f60b.png",
+                "path": "smileys/Twemoji/1f60b.png",
+                "name": "1f60b"
+            },
+            {
+                "file": "1f60c.png",
+                "path": "smileys/Twemoji/1f60c.png",
+                "name": "1f60c"
+            },
+            {
+                "file": "1f60d.png",
+                "path": "smileys/Twemoji/1f60d.png",
+                "name": "1f60d"
+            },
+            {
+                "file": "1f60e.png",
+                "path": "smileys/Twemoji/1f60e.png",
+                "name": "1f60e"
+            },
+            {
+                "file": "1f60f.png",
+                "path": "smileys/Twemoji/1f60f.png",
+                "name": "1f60f"
+            },
+            {
+                "file": "1f610.png",
+                "path": "smileys/Twemoji/1f610.png",
+                "name": "1f610"
+            },
+            {
+                "file": "1f611.png",
+                "path": "smileys/Twemoji/1f611.png",
+                "name": "1f611"
+            },
+            {
+                "file": "1f612.png",
+                "path": "smileys/Twemoji/1f612.png",
+                "name": "1f612"
+            },
+            {
+                "file": "1f613.png",
+                "path": "smileys/Twemoji/1f613.png",
+                "name": "1f613"
+            },
+            {
+                "file": "1f614.png",
+                "path": "smileys/Twemoji/1f614.png",
+                "name": "1f614"
+            },
+            {
+                "file": "1f615.png",
+                "path": "smileys/Twemoji/1f615.png",
+                "name": "1f615"
+            },
+            {
+                "file": "1f616.png",
+                "path": "smileys/Twemoji/1f616.png",
+                "name": "1f616"
+            },
+            {
+                "file": "1f617.png",
+                "path": "smileys/Twemoji/1f617.png",
+                "name": "1f617"
+            },
+            {
+                "file": "1f618.png",
+                "path": "smileys/Twemoji/1f618.png",
+                "name": "1f618"
+            },
+            {
+                "file": "1f619.png",
+                "path": "smileys/Twemoji/1f619.png",
+                "name": "1f619"
+            },
+            {
+                "file": "1f61a.png",
+                "path": "smileys/Twemoji/1f61a.png",
+                "name": "1f61a"
+            },
+            {
+                "file": "1f61b.png",
+                "path": "smileys/Twemoji/1f61b.png",
+                "name": "1f61b"
+            },
+            {
+                "file": "1f61c.png",
+                "path": "smileys/Twemoji/1f61c.png",
+                "name": "1f61c"
+            },
+            {
+                "file": "1f61d.png",
+                "path": "smileys/Twemoji/1f61d.png",
+                "name": "1f61d"
+            },
+            {
+                "file": "1f61e.png",
+                "path": "smileys/Twemoji/1f61e.png",
+                "name": "1f61e"
+            },
+            {
+                "file": "1f61f.png",
+                "path": "smileys/Twemoji/1f61f.png",
+                "name": "1f61f"
+            },
+            {
+                "file": "1f620.png",
+                "path": "smileys/Twemoji/1f620.png",
+                "name": "1f620"
+            },
+            {
+                "file": "1f621.png",
+                "path": "smileys/Twemoji/1f621.png",
+                "name": "1f621"
+            },
+            {
+                "file": "1f622.png",
+                "path": "smileys/Twemoji/1f622.png",
+                "name": "1f622"
+            },
+            {
+                "file": "1f623.png",
+                "path": "smileys/Twemoji/1f623.png",
+                "name": "1f623"
+            },
+            {
+                "file": "1f624.png",
+                "path": "smileys/Twemoji/1f624.png",
+                "name": "1f624"
+            },
+            {
+                "file": "1f625.png",
+                "path": "smileys/Twemoji/1f625.png",
+                "name": "1f625"
+            },
+            {
+                "file": "1f626.png",
+                "path": "smileys/Twemoji/1f626.png",
+                "name": "1f626"
+            },
+            {
+                "file": "1f627.png",
+                "path": "smileys/Twemoji/1f627.png",
+                "name": "1f627"
+            },
+            {
+                "file": "1f628.png",
+                "path": "smileys/Twemoji/1f628.png",
+                "name": "1f628"
+            },
+            {
+                "file": "1f629.png",
+                "path": "smileys/Twemoji/1f629.png",
+                "name": "1f629"
+            },
+            {
+                "file": "1f62a.png",
+                "path": "smileys/Twemoji/1f62a.png",
+                "name": "1f62a"
+            },
+            {
+                "file": "1f62b.png",
+                "path": "smileys/Twemoji/1f62b.png",
+                "name": "1f62b"
+            },
+            {
+                "file": "1f62c.png",
+                "path": "smileys/Twemoji/1f62c.png",
+                "name": "1f62c"
+            },
+            {
+                "file": "1f62d.png",
+                "path": "smileys/Twemoji/1f62d.png",
+                "name": "1f62d"
+            },
+            {
+                "file": "1f62e.png",
+                "path": "smileys/Twemoji/1f62e.png",
+                "name": "1f62e"
+            },
+            {
+                "file": "1f62f.png",
+                "path": "smileys/Twemoji/1f62f.png",
+                "name": "1f62f"
+            },
+            {
+                "file": "1f630.png",
+                "path": "smileys/Twemoji/1f630.png",
+                "name": "1f630"
+            },
+            {
+                "file": "1f631.png",
+                "path": "smileys/Twemoji/1f631.png",
+                "name": "1f631"
+            },
+            {
+                "file": "1f632.png",
+                "path": "smileys/Twemoji/1f632.png",
+                "name": "1f632"
+            },
+            {
+                "file": "1f633.png",
+                "path": "smileys/Twemoji/1f633.png",
+                "name": "1f633"
+            },
+            {
+                "file": "1f634.png",
+                "path": "smileys/Twemoji/1f634.png",
+                "name": "1f634"
+            },
+            {
+                "file": "1f635.png",
+                "path": "smileys/Twemoji/1f635.png",
+                "name": "1f635"
+            },
+            {
+                "file": "1f636.png",
+                "path": "smileys/Twemoji/1f636.png",
+                "name": "1f636"
+            },
+            {
+                "file": "1f637.png",
+                "path": "smileys/Twemoji/1f637.png",
+                "name": "1f637"
+            },
+            {
+                "file": "1f638.png",
+                "path": "smileys/Twemoji/1f638.png",
+                "name": "1f638"
+            },
+            {
+                "file": "1f639.png",
+                "path": "smileys/Twemoji/1f639.png",
+                "name": "1f639"
+            },
+            {
+                "file": "1f63a.png",
+                "path": "smileys/Twemoji/1f63a.png",
+                "name": "1f63a"
+            },
+            {
+                "file": "1f63b.png",
+                "path": "smileys/Twemoji/1f63b.png",
+                "name": "1f63b"
+            },
+            {
+                "file": "1f63c.png",
+                "path": "smileys/Twemoji/1f63c.png",
+                "name": "1f63c"
+            },
+            {
+                "file": "1f63d.png",
+                "path": "smileys/Twemoji/1f63d.png",
+                "name": "1f63d"
+            },
+            {
+                "file": "1f63e.png",
+                "path": "smileys/Twemoji/1f63e.png",
+                "name": "1f63e"
+            },
+            {
+                "file": "1f63f.png",
+                "path": "smileys/Twemoji/1f63f.png",
+                "name": "1f63f"
+            },
+            {
+                "file": "1f640.png",
+                "path": "smileys/Twemoji/1f640.png",
+                "name": "1f640"
+            },
+            {
+                "file": "1f645.png",
+                "path": "smileys/Twemoji/1f645.png",
+                "name": "1f645"
+            },
+            {
+                "file": "1f646.png",
+                "path": "smileys/Twemoji/1f646.png",
+                "name": "1f646"
+            },
+            {
+                "file": "1f647.png",
+                "path": "smileys/Twemoji/1f647.png",
+                "name": "1f647"
+            },
+            {
+                "file": "1f648.png",
+                "path": "smileys/Twemoji/1f648.png",
+                "name": "1f648"
+            },
+            {
+                "file": "1f649.png",
+                "path": "smileys/Twemoji/1f649.png",
+                "name": "1f649"
+            },
+            {
+                "file": "1f64a.png",
+                "path": "smileys/Twemoji/1f64a.png",
+                "name": "1f64a"
+            },
+            {
+                "file": "1f64b.png",
+                "path": "smileys/Twemoji/1f64b.png",
+                "name": "1f64b"
+            },
+            {
+                "file": "1f64c.png",
+                "path": "smileys/Twemoji/1f64c.png",
+                "name": "1f64c"
+            },
+            {
+                "file": "1f64d.png",
+                "path": "smileys/Twemoji/1f64d.png",
+                "name": "1f64d"
+            },
+            {
+                "file": "1f64e.png",
+                "path": "smileys/Twemoji/1f64e.png",
+                "name": "1f64e"
+            },
+            {
+                "file": "1f64f.png",
+                "path": "smileys/Twemoji/1f64f.png",
+                "name": "1f64f"
+            },
+            {
+                "file": "1f680.png",
+                "path": "smileys/Twemoji/1f680.png",
+                "name": "1f680"
+            },
+            {
+                "file": "1f681.png",
+                "path": "smileys/Twemoji/1f681.png",
+                "name": "1f681"
+            },
+            {
+                "file": "1f682.png",
+                "path": "smileys/Twemoji/1f682.png",
+                "name": "1f682"
+            },
+            {
+                "file": "1f683.png",
+                "path": "smileys/Twemoji/1f683.png",
+                "name": "1f683"
+            },
+            {
+                "file": "1f684.png",
+                "path": "smileys/Twemoji/1f684.png",
+                "name": "1f684"
+            },
+            {
+                "file": "1f685.png",
+                "path": "smileys/Twemoji/1f685.png",
+                "name": "1f685"
+            },
+            {
+                "file": "1f686.png",
+                "path": "smileys/Twemoji/1f686.png",
+                "name": "1f686"
+            },
+            {
+                "file": "1f687.png",
+                "path": "smileys/Twemoji/1f687.png",
+                "name": "1f687"
+            },
+            {
+                "file": "1f688.png",
+                "path": "smileys/Twemoji/1f688.png",
+                "name": "1f688"
+            },
+            {
+                "file": "1f689.png",
+                "path": "smileys/Twemoji/1f689.png",
+                "name": "1f689"
+            },
+            {
+                "file": "1f68a.png",
+                "path": "smileys/Twemoji/1f68a.png",
+                "name": "1f68a"
+            },
+            {
+                "file": "1f68b.png",
+                "path": "smileys/Twemoji/1f68b.png",
+                "name": "1f68b"
+            },
+            {
+                "file": "1f68c.png",
+                "path": "smileys/Twemoji/1f68c.png",
+                "name": "1f68c"
+            },
+            {
+                "file": "1f68d.png",
+                "path": "smileys/Twemoji/1f68d.png",
+                "name": "1f68d"
+            },
+            {
+                "file": "1f68e.png",
+                "path": "smileys/Twemoji/1f68e.png",
+                "name": "1f68e"
+            },
+            {
+                "file": "1f68f.png",
+                "path": "smileys/Twemoji/1f68f.png",
+                "name": "1f68f"
+            },
+            {
+                "file": "1f690.png",
+                "path": "smileys/Twemoji/1f690.png",
+                "name": "1f690"
+            },
+            {
+                "file": "1f691.png",
+                "path": "smileys/Twemoji/1f691.png",
+                "name": "1f691"
+            },
+            {
+                "file": "1f692.png",
+                "path": "smileys/Twemoji/1f692.png",
+                "name": "1f692"
+            },
+            {
+                "file": "1f693.png",
+                "path": "smileys/Twemoji/1f693.png",
+                "name": "1f693"
+            },
+            {
+                "file": "1f694.png",
+                "path": "smileys/Twemoji/1f694.png",
+                "name": "1f694"
+            },
+            {
+                "file": "1f695.png",
+                "path": "smileys/Twemoji/1f695.png",
+                "name": "1f695"
+            },
+            {
+                "file": "1f696.png",
+                "path": "smileys/Twemoji/1f696.png",
+                "name": "1f696"
+            },
+            {
+                "file": "1f697.png",
+                "path": "smileys/Twemoji/1f697.png",
+                "name": "1f697"
+            },
+            {
+                "file": "1f698.png",
+                "path": "smileys/Twemoji/1f698.png",
+                "name": "1f698"
+            },
+            {
+                "file": "1f699.png",
+                "path": "smileys/Twemoji/1f699.png",
+                "name": "1f699"
+            },
+            {
+                "file": "1f69a.png",
+                "path": "smileys/Twemoji/1f69a.png",
+                "name": "1f69a"
+            },
+            {
+                "file": "1f69b.png",
+                "path": "smileys/Twemoji/1f69b.png",
+                "name": "1f69b"
+            },
+            {
+                "file": "1f69c.png",
+                "path": "smileys/Twemoji/1f69c.png",
+                "name": "1f69c"
+            },
+            {
+                "file": "1f69d.png",
+                "path": "smileys/Twemoji/1f69d.png",
+                "name": "1f69d"
+            },
+            {
+                "file": "1f69e.png",
+                "path": "smileys/Twemoji/1f69e.png",
+                "name": "1f69e"
+            },
+            {
+                "file": "1f69f.png",
+                "path": "smileys/Twemoji/1f69f.png",
+                "name": "1f69f"
+            },
+            {
+                "file": "1f6a0.png",
+                "path": "smileys/Twemoji/1f6a0.png",
+                "name": "1f6a0"
+            },
+            {
+                "file": "1f6a1.png",
+                "path": "smileys/Twemoji/1f6a1.png",
+                "name": "1f6a1"
+            },
+            {
+                "file": "1f6a2.png",
+                "path": "smileys/Twemoji/1f6a2.png",
+                "name": "1f6a2"
+            },
+            {
+                "file": "1f6a3.png",
+                "path": "smileys/Twemoji/1f6a3.png",
+                "name": "1f6a3"
+            },
+            {
+                "file": "1f6a4.png",
+                "path": "smileys/Twemoji/1f6a4.png",
+                "name": "1f6a4"
+            },
+            {
+                "file": "1f6a5.png",
+                "path": "smileys/Twemoji/1f6a5.png",
+                "name": "1f6a5"
+            },
+            {
+                "file": "1f6a6.png",
+                "path": "smileys/Twemoji/1f6a6.png",
+                "name": "1f6a6"
+            },
+            {
+                "file": "1f6a7.png",
+                "path": "smileys/Twemoji/1f6a7.png",
+                "name": "1f6a7"
+            },
+            {
+                "file": "1f6a8.png",
+                "path": "smileys/Twemoji/1f6a8.png",
+                "name": "1f6a8"
+            },
+            {
+                "file": "1f6a9.png",
+                "path": "smileys/Twemoji/1f6a9.png",
+                "name": "1f6a9"
+            },
+            {
+                "file": "1f6aa.png",
+                "path": "smileys/Twemoji/1f6aa.png",
+                "name": "1f6aa"
+            },
+            {
+                "file": "1f6ab.png",
+                "path": "smileys/Twemoji/1f6ab.png",
+                "name": "1f6ab"
+            },
+            {
+                "file": "1f6ac.png",
+                "path": "smileys/Twemoji/1f6ac.png",
+                "name": "1f6ac"
+            },
+            {
+                "file": "1f6ad.png",
+                "path": "smileys/Twemoji/1f6ad.png",
+                "name": "1f6ad"
+            },
+            {
+                "file": "1f6ae.png",
+                "path": "smileys/Twemoji/1f6ae.png",
+                "name": "1f6ae"
+            },
+            {
+                "file": "1f6af.png",
+                "path": "smileys/Twemoji/1f6af.png",
+                "name": "1f6af"
+            },
+            {
+                "file": "1f6b0.png",
+                "path": "smileys/Twemoji/1f6b0.png",
+                "name": "1f6b0"
+            },
+            {
+                "file": "1f6b1.png",
+                "path": "smileys/Twemoji/1f6b1.png",
+                "name": "1f6b1"
+            },
+            {
+                "file": "1f6b2.png",
+                "path": "smileys/Twemoji/1f6b2.png",
+                "name": "1f6b2"
+            },
+            {
+                "file": "1f6b3.png",
+                "path": "smileys/Twemoji/1f6b3.png",
+                "name": "1f6b3"
+            },
+            {
+                "file": "1f6b4.png",
+                "path": "smileys/Twemoji/1f6b4.png",
+                "name": "1f6b4"
+            },
+            {
+                "file": "1f6b5.png",
+                "path": "smileys/Twemoji/1f6b5.png",
+                "name": "1f6b5"
+            },
+            {
+                "file": "1f6b6.png",
+                "path": "smileys/Twemoji/1f6b6.png",
+                "name": "1f6b6"
+            },
+            {
+                "file": "1f6b7.png",
+                "path": "smileys/Twemoji/1f6b7.png",
+                "name": "1f6b7"
+            },
+            {
+                "file": "1f6b8.png",
+                "path": "smileys/Twemoji/1f6b8.png",
+                "name": "1f6b8"
+            },
+            {
+                "file": "1f6b9.png",
+                "path": "smileys/Twemoji/1f6b9.png",
+                "name": "1f6b9"
+            },
+            {
+                "file": "1f6ba.png",
+                "path": "smileys/Twemoji/1f6ba.png",
+                "name": "1f6ba"
+            },
+            {
+                "file": "1f6bb.png",
+                "path": "smileys/Twemoji/1f6bb.png",
+                "name": "1f6bb"
+            },
+            {
+                "file": "1f6bc.png",
+                "path": "smileys/Twemoji/1f6bc.png",
+                "name": "1f6bc"
+            },
+            {
+                "file": "1f6bd.png",
+                "path": "smileys/Twemoji/1f6bd.png",
+                "name": "1f6bd"
+            },
+            {
+                "file": "1f6be.png",
+                "path": "smileys/Twemoji/1f6be.png",
+                "name": "1f6be"
+            },
+            {
+                "file": "1f6bf.png",
+                "path": "smileys/Twemoji/1f6bf.png",
+                "name": "1f6bf"
+            },
+            {
+                "file": "1f6c0.png",
+                "path": "smileys/Twemoji/1f6c0.png",
+                "name": "1f6c0"
+            },
+            {
+                "file": "1f6c1.png",
+                "path": "smileys/Twemoji/1f6c1.png",
+                "name": "1f6c1"
+            },
+            {
+                "file": "1f6c2.png",
+                "path": "smileys/Twemoji/1f6c2.png",
+                "name": "1f6c2"
+            },
+            {
+                "file": "1f6c3.png",
+                "path": "smileys/Twemoji/1f6c3.png",
+                "name": "1f6c3"
+            },
+            {
+                "file": "1f6c4.png",
+                "path": "smileys/Twemoji/1f6c4.png",
+                "name": "1f6c4"
+            },
+            {
+                "file": "1f6c5.png",
+                "path": "smileys/Twemoji/1f6c5.png",
+                "name": "1f6c5"
+            },
+            {
+                "file": "203c.png",
+                "path": "smileys/Twemoji/203c.png",
+                "name": "203c"
+            },
+            {
+                "file": "2049.png",
+                "path": "smileys/Twemoji/2049.png",
+                "name": "2049"
+            },
+            {
+                "file": "2122.png",
+                "path": "smileys/Twemoji/2122.png",
+                "name": "2122"
+            },
+            {
+                "file": "2139.png",
+                "path": "smileys/Twemoji/2139.png",
+                "name": "2139"
+            },
+            {
+                "file": "2194.png",
+                "path": "smileys/Twemoji/2194.png",
+                "name": "2194"
+            },
+            {
+                "file": "2195.png",
+                "path": "smileys/Twemoji/2195.png",
+                "name": "2195"
+            },
+            {
+                "file": "2196.png",
+                "path": "smileys/Twemoji/2196.png",
+                "name": "2196"
+            },
+            {
+                "file": "2197.png",
+                "path": "smileys/Twemoji/2197.png",
+                "name": "2197"
+            },
+            {
+                "file": "2198.png",
+                "path": "smileys/Twemoji/2198.png",
+                "name": "2198"
+            },
+            {
+                "file": "2199.png",
+                "path": "smileys/Twemoji/2199.png",
+                "name": "2199"
+            },
+            {
+                "file": "21a9.png",
+                "path": "smileys/Twemoji/21a9.png",
+                "name": "21a9"
+            },
+            {
+                "file": "21aa.png",
+                "path": "smileys/Twemoji/21aa.png",
+                "name": "21aa"
+            },
+            {
+                "file": "23-20e3.png",
+                "path": "smileys/Twemoji/23-20e3.png",
+                "name": "23-20e3"
+            },
+            {
+                "file": "231a.png",
+                "path": "smileys/Twemoji/231a.png",
+                "name": "231a"
+            },
+            {
+                "file": "231b.png",
+                "path": "smileys/Twemoji/231b.png",
+                "name": "231b"
+            },
+            {
+                "file": "23e9.png",
+                "path": "smileys/Twemoji/23e9.png",
+                "name": "23e9"
+            },
+            {
+                "file": "23ea.png",
+                "path": "smileys/Twemoji/23ea.png",
+                "name": "23ea"
+            },
+            {
+                "file": "23eb.png",
+                "path": "smileys/Twemoji/23eb.png",
+                "name": "23eb"
+            },
+            {
+                "file": "23ec.png",
+                "path": "smileys/Twemoji/23ec.png",
+                "name": "23ec"
+            },
+            {
+                "file": "23f0.png",
+                "path": "smileys/Twemoji/23f0.png",
+                "name": "23f0"
+            },
+            {
+                "file": "23f3.png",
+                "path": "smileys/Twemoji/23f3.png",
+                "name": "23f3"
+            },
+            {
+                "file": "24c2.png",
+                "path": "smileys/Twemoji/24c2.png",
+                "name": "24c2"
+            },
+            {
+                "file": "25aa.png",
+                "path": "smileys/Twemoji/25aa.png",
+                "name": "25aa"
+            },
+            {
+                "file": "25ab.png",
+                "path": "smileys/Twemoji/25ab.png",
+                "name": "25ab"
+            },
+            {
+                "file": "25b6.png",
+                "path": "smileys/Twemoji/25b6.png",
+                "name": "25b6"
+            },
+            {
+                "file": "25c0.png",
+                "path": "smileys/Twemoji/25c0.png",
+                "name": "25c0"
+            },
+            {
+                "file": "25fb.png",
+                "path": "smileys/Twemoji/25fb.png",
+                "name": "25fb"
+            },
+            {
+                "file": "25fc.png",
+                "path": "smileys/Twemoji/25fc.png",
+                "name": "25fc"
+            },
+            {
+                "file": "25fd.png",
+                "path": "smileys/Twemoji/25fd.png",
+                "name": "25fd"
+            },
+            {
+                "file": "25fe.png",
+                "path": "smileys/Twemoji/25fe.png",
+                "name": "25fe"
+            },
+            {
+                "file": "2600.png",
+                "path": "smileys/Twemoji/2600.png",
+                "name": "2600"
+            },
+            {
+                "file": "2601.png",
+                "path": "smileys/Twemoji/2601.png",
+                "name": "2601"
+            },
+            {
+                "file": "260e.png",
+                "path": "smileys/Twemoji/260e.png",
+                "name": "260e"
+            },
+            {
+                "file": "2611.png",
+                "path": "smileys/Twemoji/2611.png",
+                "name": "2611"
+            },
+            {
+                "file": "2614.png",
+                "path": "smileys/Twemoji/2614.png",
+                "name": "2614"
+            },
+            {
+                "file": "2615.png",
+                "path": "smileys/Twemoji/2615.png",
+                "name": "2615"
+            },
+            {
+                "file": "261d.png",
+                "path": "smileys/Twemoji/261d.png",
+                "name": "261d"
+            },
+            {
+                "file": "263a.png",
+                "path": "smileys/Twemoji/263a.png",
+                "name": "263a"
+            },
+            {
+                "file": "2648.png",
+                "path": "smileys/Twemoji/2648.png",
+                "name": "2648"
+            },
+            {
+                "file": "2649.png",
+                "path": "smileys/Twemoji/2649.png",
+                "name": "2649"
+            },
+            {
+                "file": "264a.png",
+                "path": "smileys/Twemoji/264a.png",
+                "name": "264a"
+            },
+            {
+                "file": "264b.png",
+                "path": "smileys/Twemoji/264b.png",
+                "name": "264b"
+            },
+            {
+                "file": "264c.png",
+                "path": "smileys/Twemoji/264c.png",
+                "name": "264c"
+            },
+            {
+                "file": "264d.png",
+                "path": "smileys/Twemoji/264d.png",
+                "name": "264d"
+            },
+            {
+                "file": "264e.png",
+                "path": "smileys/Twemoji/264e.png",
+                "name": "264e"
+            },
+            {
+                "file": "264f.png",
+                "path": "smileys/Twemoji/264f.png",
+                "name": "264f"
+            },
+            {
+                "file": "2650.png",
+                "path": "smileys/Twemoji/2650.png",
+                "name": "2650"
+            },
+            {
+                "file": "2651.png",
+                "path": "smileys/Twemoji/2651.png",
+                "name": "2651"
+            },
+            {
+                "file": "2652.png",
+                "path": "smileys/Twemoji/2652.png",
+                "name": "2652"
+            },
+            {
+                "file": "2653.png",
+                "path": "smileys/Twemoji/2653.png",
+                "name": "2653"
+            },
+            {
+                "file": "2660.png",
+                "path": "smileys/Twemoji/2660.png",
+                "name": "2660"
+            },
+            {
+                "file": "2663.png",
+                "path": "smileys/Twemoji/2663.png",
+                "name": "2663"
+            },
+            {
+                "file": "2665.png",
+                "path": "smileys/Twemoji/2665.png",
+                "name": "2665"
+            },
+            {
+                "file": "2666.png",
+                "path": "smileys/Twemoji/2666.png",
+                "name": "2666"
+            },
+            {
+                "file": "2668.png",
+                "path": "smileys/Twemoji/2668.png",
+                "name": "2668"
+            },
+            {
+                "file": "267b.png",
+                "path": "smileys/Twemoji/267b.png",
+                "name": "267b"
+            },
+            {
+                "file": "267f.png",
+                "path": "smileys/Twemoji/267f.png",
+                "name": "267f"
+            },
+            {
+                "file": "2693.png",
+                "path": "smileys/Twemoji/2693.png",
+                "name": "2693"
+            },
+            {
+                "file": "26a0.png",
+                "path": "smileys/Twemoji/26a0.png",
+                "name": "26a0"
+            },
+            {
+                "file": "26a1.png",
+                "path": "smileys/Twemoji/26a1.png",
+                "name": "26a1"
+            },
+            {
+                "file": "26aa.png",
+                "path": "smileys/Twemoji/26aa.png",
+                "name": "26aa"
+            },
+            {
+                "file": "26ab.png",
+                "path": "smileys/Twemoji/26ab.png",
+                "name": "26ab"
+            },
+            {
+                "file": "26bd.png",
+                "path": "smileys/Twemoji/26bd.png",
+                "name": "26bd"
+            },
+            {
+                "file": "26be.png",
+                "path": "smileys/Twemoji/26be.png",
+                "name": "26be"
+            },
+            {
+                "file": "26c4.png",
+                "path": "smileys/Twemoji/26c4.png",
+                "name": "26c4"
+            },
+            {
+                "file": "26c5.png",
+                "path": "smileys/Twemoji/26c5.png",
+                "name": "26c5"
+            },
+            {
+                "file": "26ce.png",
+                "path": "smileys/Twemoji/26ce.png",
+                "name": "26ce"
+            },
+            {
+                "file": "26d4.png",
+                "path": "smileys/Twemoji/26d4.png",
+                "name": "26d4"
+            },
+            {
+                "file": "26ea.png",
+                "path": "smileys/Twemoji/26ea.png",
+                "name": "26ea"
+            },
+            {
+                "file": "26f2.png",
+                "path": "smileys/Twemoji/26f2.png",
+                "name": "26f2"
+            },
+            {
+                "file": "26f3.png",
+                "path": "smileys/Twemoji/26f3.png",
+                "name": "26f3"
+            },
+            {
+                "file": "26f5.png",
+                "path": "smileys/Twemoji/26f5.png",
+                "name": "26f5"
+            },
+            {
+                "file": "26fa.png",
+                "path": "smileys/Twemoji/26fa.png",
+                "name": "26fa"
+            },
+            {
+                "file": "26fd.png",
+                "path": "smileys/Twemoji/26fd.png",
+                "name": "26fd"
+            },
+            {
+                "file": "2702.png",
+                "path": "smileys/Twemoji/2702.png",
+                "name": "2702"
+            },
+            {
+                "file": "2705.png",
+                "path": "smileys/Twemoji/2705.png",
+                "name": "2705"
+            },
+            {
+                "file": "2708.png",
+                "path": "smileys/Twemoji/2708.png",
+                "name": "2708"
+            },
+            {
+                "file": "2709.png",
+                "path": "smileys/Twemoji/2709.png",
+                "name": "2709"
+            },
+            {
+                "file": "270a.png",
+                "path": "smileys/Twemoji/270a.png",
+                "name": "270a"
+            },
+            {
+                "file": "270b.png",
+                "path": "smileys/Twemoji/270b.png",
+                "name": "270b"
+            },
+            {
+                "file": "270c.png",
+                "path": "smileys/Twemoji/270c.png",
+                "name": "270c"
+            },
+            {
+                "file": "270f.png",
+                "path": "smileys/Twemoji/270f.png",
+                "name": "270f"
+            },
+            {
+                "file": "2712.png",
+                "path": "smileys/Twemoji/2712.png",
+                "name": "2712"
+            },
+            {
+                "file": "2714.png",
+                "path": "smileys/Twemoji/2714.png",
+                "name": "2714"
+            },
+            {
+                "file": "2716.png",
+                "path": "smileys/Twemoji/2716.png",
+                "name": "2716"
+            },
+            {
+                "file": "2728.png",
+                "path": "smileys/Twemoji/2728.png",
+                "name": "2728"
+            },
+            {
+                "file": "2733.png",
+                "path": "smileys/Twemoji/2733.png",
+                "name": "2733"
+            },
+            {
+                "file": "2734.png",
+                "path": "smileys/Twemoji/2734.png",
+                "name": "2734"
+            },
+            {
+                "file": "2744.png",
+                "path": "smileys/Twemoji/2744.png",
+                "name": "2744"
+            },
+            {
+                "file": "2747.png",
+                "path": "smileys/Twemoji/2747.png",
+                "name": "2747"
+            },
+            {
+                "file": "274c.png",
+                "path": "smileys/Twemoji/274c.png",
+                "name": "274c"
+            },
+            {
+                "file": "274e.png",
+                "path": "smileys/Twemoji/274e.png",
+                "name": "274e"
+            },
+            {
+                "file": "2753.png",
+                "path": "smileys/Twemoji/2753.png",
+                "name": "2753"
+            },
+            {
+                "file": "2754.png",
+                "path": "smileys/Twemoji/2754.png",
+                "name": "2754"
+            },
+            {
+                "file": "2755.png",
+                "path": "smileys/Twemoji/2755.png",
+                "name": "2755"
+            },
+            {
+                "file": "2757.png",
+                "path": "smileys/Twemoji/2757.png",
+                "name": "2757"
+            },
+            {
+                "file": "2764.png",
+                "path": "smileys/Twemoji/2764.png",
+                "name": "2764"
+            },
+            {
+                "file": "2795.png",
+                "path": "smileys/Twemoji/2795.png",
+                "name": "2795"
+            },
+            {
+                "file": "2796.png",
+                "path": "smileys/Twemoji/2796.png",
+                "name": "2796"
+            },
+            {
+                "file": "2797.png",
+                "path": "smileys/Twemoji/2797.png",
+                "name": "2797"
+            },
+            {
+                "file": "27a1.png",
+                "path": "smileys/Twemoji/27a1.png",
+                "name": "27a1"
+            },
+            {
+                "file": "27b0.png",
+                "path": "smileys/Twemoji/27b0.png",
+                "name": "27b0"
+            },
+            {
+                "file": "27bf.png",
+                "path": "smileys/Twemoji/27bf.png",
+                "name": "27bf"
+            },
+            {
+                "file": "2934.png",
+                "path": "smileys/Twemoji/2934.png",
+                "name": "2934"
+            },
+            {
+                "file": "2935.png",
+                "path": "smileys/Twemoji/2935.png",
+                "name": "2935"
+            },
+            {
+                "file": "2b05.png",
+                "path": "smileys/Twemoji/2b05.png",
+                "name": "2b05"
+            },
+            {
+                "file": "2b06.png",
+                "path": "smileys/Twemoji/2b06.png",
+                "name": "2b06"
+            },
+            {
+                "file": "2b07.png",
+                "path": "smileys/Twemoji/2b07.png",
+                "name": "2b07"
+            },
+            {
+                "file": "2b1b.png",
+                "path": "smileys/Twemoji/2b1b.png",
+                "name": "2b1b"
+            },
+            {
+                "file": "2b1c.png",
+                "path": "smileys/Twemoji/2b1c.png",
+                "name": "2b1c"
+            },
+            {
+                "file": "2b50.png",
+                "path": "smileys/Twemoji/2b50.png",
+                "name": "2b50"
+            },
+            {
+                "file": "2b55.png",
+                "path": "smileys/Twemoji/2b55.png",
+                "name": "2b55"
+            },
+            {
+                "file": "30-20e3.png",
+                "path": "smileys/Twemoji/30-20e3.png",
+                "name": "30-20e3"
+            },
+            {
+                "file": "3030.png",
+                "path": "smileys/Twemoji/3030.png",
+                "name": "3030"
+            },
+            {
+                "file": "303d.png",
+                "path": "smileys/Twemoji/303d.png",
+                "name": "303d"
+            },
+            {
+                "file": "31-20e3.png",
+                "path": "smileys/Twemoji/31-20e3.png",
+                "name": "31-20e3"
+            },
+            {
+                "file": "32-20e3.png",
+                "path": "smileys/Twemoji/32-20e3.png",
+                "name": "32-20e3"
+            },
+            {
+                "file": "3297.png",
+                "path": "smileys/Twemoji/3297.png",
+                "name": "3297"
+            },
+            {
+                "file": "3299.png",
+                "path": "smileys/Twemoji/3299.png",
+                "name": "3299"
+            },
+            {
+                "file": "33-20e3.png",
+                "path": "smileys/Twemoji/33-20e3.png",
+                "name": "33-20e3"
+            },
+            {
+                "file": "34-20e3.png",
+                "path": "smileys/Twemoji/34-20e3.png",
+                "name": "34-20e3"
+            },
+            {
+                "file": "35-20e3.png",
+                "path": "smileys/Twemoji/35-20e3.png",
+                "name": "35-20e3"
+            },
+            {
+                "file": "36-20e3.png",
+                "path": "smileys/Twemoji/36-20e3.png",
+                "name": "36-20e3"
+            },
+            {
+                "file": "37-20e3.png",
+                "path": "smileys/Twemoji/37-20e3.png",
+                "name": "37-20e3"
+            },
+            {
+                "file": "38-20e3.png",
+                "path": "smileys/Twemoji/38-20e3.png",
+                "name": "38-20e3"
+            },
+            {
+                "file": "39-20e3.png",
+                "path": "smileys/Twemoji/39-20e3.png",
+                "name": "39-20e3"
+            },
+            {
+                "file": "a9.png",
+                "path": "smileys/Twemoji/a9.png",
+                "name": "a9"
+            },
+            {
+                "file": "ae.png",
+                "path": "smileys/Twemoji/ae.png",
+                "name": "ae"
+            },
+            {
+                "file": "e50a.png",
+                "path": "smileys/Twemoji/e50a.png",
+                "name": "e50a"
+            }
+        ]
+    }
+]
