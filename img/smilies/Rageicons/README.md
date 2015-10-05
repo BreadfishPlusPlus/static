@@ -1,1 +1,0 @@
-Rages faces are property of their respective holders.
